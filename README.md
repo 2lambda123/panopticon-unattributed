@@ -5,3 +5,9 @@ https://www.darkreading.com/application-security/shellshock-still-in-the-crossha
 https://securelist.com/miners-on-the-rise/81706/
 
 http://www.vkremez.com/2017/09/lets-learn-reversing-trickbot-banking.html 
+
+https://arstechnica.com/information-technology/2017/09/for-2nd-time-this-year-windows-0day-exploited-to-install-finspy-creepware/
+
+https://blogs.technet.microsoft.com/mmpc/2016/12/14/twin-zero-day-attacks-promethium-and-neodymium-target-individuals-in-europe/
+
+https://download.microsoft.com/download/E/B/0/EB0F50CC-989C-4B66-B7F6-68CD3DC90DE3/Microsoft_Security_Intelligence_Report_Volume_21_Parallel_Zero-day_Attacks_English.pdf
