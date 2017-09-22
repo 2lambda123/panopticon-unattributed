@@ -19,3 +19,5 @@ http://www.securityweek.com/targeted-attacks-leverage-powerpoint-file-malware-de
 http://www.securityweek.com/internet-providers-possibly-involved-finfisher-surveillance-operations-report
 
 http://www.nextgov.com/defense/2017/09/future-navy-accident-investigations-will-look-cyber-attacks/141025/?oref=ng-channelriver
+
+https://blog.cripperz.sg/2017/09/20/air-jumper-a-malware-exfiltrates-data-via-security-cameras-and-infrared/
