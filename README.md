@@ -17,3 +17,5 @@ https://www.wired.com/story/security-roundup-germany-election-software-is-hackab
 http://www.securityweek.com/targeted-attacks-leverage-powerpoint-file-malware-delivery
 
 http://www.securityweek.com/internet-providers-possibly-involved-finfisher-surveillance-operations-report
+
+http://www.nextgov.com/defense/2017/09/future-navy-accident-investigations-will-look-cyber-attacks/141025/?oref=ng-channelriver
