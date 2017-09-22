@@ -15,3 +15,5 @@ https://download.microsoft.com/download/E/B/0/EB0F50CC-989C-4B66-B7F6-68CD3DC90D
 https://www.wired.com/story/security-roundup-germany-election-software-is-hackable?mbid=nl_091017_daily&CNDID=%25%25CUST_ID%25%25
 
 http://www.securityweek.com/targeted-attacks-leverage-powerpoint-file-malware-delivery
+
+http://www.securityweek.com/internet-providers-possibly-involved-finfisher-surveillance-operations-report
