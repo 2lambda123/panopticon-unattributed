@@ -23,3 +23,6 @@ http://www.nextgov.com/defense/2017/09/future-navy-accident-investigations-will-
 https://blog.cripperz.sg/2017/09/20/air-jumper-a-malware-exfiltrates-data-via-security-cameras-and-infrared/
 
 https://arstechnica.com/information-technology/2017/09/devs-unknowingly-use-malicious-modules-put-into-official-python-repository/ good to know how supply chain attacks can occur
+
+https://www.wired.com/story/google-play-store-malware?mbid=nl_092217_daily&CNDID=%25%25CUST_ID%25%25
+good to know
