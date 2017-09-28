@@ -26,3 +26,5 @@ https://arstechnica.com/information-technology/2017/09/devs-unknowingly-use-mali
 
 https://www.wired.com/story/google-play-store-malware?mbid=nl_092217_daily&CNDID=%25%25CUST_ID%25%25
 good to know
+
+https://www.eff.org/deeplinks/2017/09/phish-future
