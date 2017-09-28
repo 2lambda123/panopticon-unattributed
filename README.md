@@ -28,3 +28,5 @@ https://www.wired.com/story/google-play-store-malware?mbid=nl_092217_daily&CNDID
 good to know
 
 https://www.eff.org/deeplinks/2017/09/phish-future
+
+http://www.securityweek.com/ddos-attacks-more-likely-hit-critical-infrastructure-apts-europol
