@@ -30,3 +30,5 @@ good to know
 https://www.eff.org/deeplinks/2017/09/phish-future
 
 http://www.securityweek.com/ddos-attacks-more-likely-hit-critical-infrastructure-apts-europol
+
+http://www.securityweek.com/espionage-attack-uses-scripts-data-exfiltration
