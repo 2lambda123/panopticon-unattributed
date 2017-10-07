@@ -36,3 +36,4 @@ http://www.securityweek.com/espionage-attack-uses-scripts-data-exfiltration
 Needs to be sorted
 http://www.atimes.com/article/vietnam-grapples-wild-wooly-web/
 
+http://www.securityweek.com/espionage-attack-uses-scripts-data-exfiltration
