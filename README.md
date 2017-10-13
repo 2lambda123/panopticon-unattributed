@@ -41,3 +41,5 @@ http://www.securityweek.com/espionage-attack-uses-scripts-data-exfiltration
 http://www.securityweek.com/sophisticated-phishing-attacks-target-internet-freedom-activists
 
 http://www.zdnet.com/article/state-sponsored-hackers-turn-on-each-other/#ftag=RSSbaffb68
+
+https://arstechnica.com/science/2017/10/sound-of-mystery-attacks-in-cuba-released-its-as-obnoxious-as-youd-expect/?comments=1
