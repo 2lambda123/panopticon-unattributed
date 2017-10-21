@@ -43,3 +43,9 @@ http://www.securityweek.com/sophisticated-phishing-attacks-target-internet-freed
 http://www.zdnet.com/article/state-sponsored-hackers-turn-on-each-other/#ftag=RSSbaffb68
 
 https://arstechnica.com/science/2017/10/sound-of-mystery-attacks-in-cuba-released-its-as-obnoxious-as-youd-expect/?comments=1
+
+# APTs steal from each other
+
+http://www.information-age.com/nation-state-backed-threat-actors-steal-copy-123468898/
+
+https://www.thedailybeast.com/the-murky-world-of-spies-hacking-other-spies
