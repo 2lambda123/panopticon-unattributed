@@ -44,6 +44,8 @@ http://www.zdnet.com/article/state-sponsored-hackers-turn-on-each-other/#ftag=RS
 
 https://arstechnica.com/science/2017/10/sound-of-mystery-attacks-in-cuba-released-its-as-obnoxious-as-youd-expect/?comments=1
 
+https://www.bellingcat.com/resources/case-studies/2017/10/27/bahamut-revisited-cyber-espionage-middle-east-south-asia/
+
 # APTs steal from each other
 
 http://www.information-age.com/nation-state-backed-threat-actors-steal-copy-123468898/
