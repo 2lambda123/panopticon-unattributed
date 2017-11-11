@@ -46,6 +46,8 @@ https://arstechnica.com/science/2017/10/sound-of-mystery-attacks-in-cuba-release
 
 https://www.bellingcat.com/resources/case-studies/2017/10/27/bahamut-revisited-cyber-espionage-middle-east-south-asia/
 
+http://www.securityweek.com/meet-mbr-oni-bootkit-ransomware-used-targeted-wiper
+
 # APTs steal from each other
 
 http://www.information-age.com/nation-state-backed-threat-actors-steal-copy-123468898/
