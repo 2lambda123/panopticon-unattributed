@@ -48,6 +48,8 @@ https://www.bellingcat.com/resources/case-studies/2017/10/27/bahamut-revisited-c
 
 http://www.securityweek.com/meet-mbr-oni-bootkit-ransomware-used-targeted-wiper
 
+http://www.securityweek.com/middle-east-muddywater-attacks-difficult-clear
+
 # APTs steal from each other
 
 http://www.information-age.com/nation-state-backed-threat-actors-steal-copy-123468898/
