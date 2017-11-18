@@ -57,3 +57,5 @@ https://www.thedailybeast.com/the-murky-world-of-spies-hacking-other-spies
 # Trends
 
 http://www.securityweek.com/fileless-attacks-ten-times-more-likely-succeed-report
+
+www.securityweek.com/fake-news-becomes-business-model-researchers
