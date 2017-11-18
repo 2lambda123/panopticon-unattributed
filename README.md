@@ -59,3 +59,7 @@ https://www.thedailybeast.com/the-murky-world-of-spies-hacking-other-spies
 http://www.securityweek.com/fileless-attacks-ten-times-more-likely-succeed-report
 
 www.securityweek.com/fake-news-becomes-business-model-researchers
+
+# New Tools
+
+http://www.securityweek.com/terdot-banking-trojan-could-act-cyber-espionage-tool
