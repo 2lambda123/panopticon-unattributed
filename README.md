@@ -65,3 +65,7 @@ www.securityweek.com/fake-news-becomes-business-model-researchers
 # New Tools
 
 http://www.securityweek.com/terdot-banking-trojan-could-act-cyber-espionage-tool
+
+# Things that could be leveraged
+
+http://www.securityweek.com/moxa-nport-devices-vulnerable-remote-attacks
