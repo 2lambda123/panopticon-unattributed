@@ -53,3 +53,7 @@ http://www.securityweek.com/meet-mbr-oni-bootkit-ransomware-used-targeted-wiper
 http://www.information-age.com/nation-state-backed-threat-actors-steal-copy-123468898/
 
 https://www.thedailybeast.com/the-murky-world-of-spies-hacking-other-spies
+
+# Trends
+
+http://www.securityweek.com/fileless-attacks-ten-times-more-likely-succeed-report
