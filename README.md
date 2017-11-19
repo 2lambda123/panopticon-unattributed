@@ -56,6 +56,10 @@ http://www.information-age.com/nation-state-backed-threat-actors-steal-copy-1234
 
 https://www.thedailybeast.com/the-murky-world-of-spies-hacking-other-spies
 
+# Phishing
+
+https://www.wired.com/story/netflix-phishing-scam/?mbid=nl_110817_daily_list3_p1
+
 # Trends
 
 http://www.securityweek.com/fileless-attacks-ten-times-more-likely-succeed-report
