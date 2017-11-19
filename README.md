@@ -60,6 +60,10 @@ https://www.thedailybeast.com/the-murky-world-of-spies-hacking-other-spies
 
 https://www.wired.com/story/netflix-phishing-scam/?mbid=nl_110817_daily_list3_p1
 
+# Disinformation
+
+https://www.darkreading.com/cloud/cognitive-mindhacks-how-attackers-spread-disinformation-campaigns/d/d-id/1330334?elq_mid=81352&elq_cid=25141692&_mc=NL_DR_EDT_DR_daily_20171107&cid=NL_DR_EDT_DR_daily_20171107&elqTrackId=7195548e93434bb29b06883de604123a&elq=b1e49e48aef24c5aadadfed9b2188855&elqaid=81352&elqat=1&elqCampaignId=28638
+
 # Trends
 
 http://www.securityweek.com/fileless-attacks-ten-times-more-likely-succeed-report
