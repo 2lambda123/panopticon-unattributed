@@ -80,3 +80,7 @@ http://www.securityweek.com/moxa-nport-devices-vulnerable-remote-attacks
 
 # TRITON
 https://www.fireeye.com/blog/threat-research/2017/12/attackers-deploy-new-ics-attack-framework-triton.html
+
+# Malware
+http://www.securityweek.com/new-custom-rat-hits-targets-east-asia
+https://github.com/elsa999
