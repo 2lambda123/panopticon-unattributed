@@ -92,3 +92,4 @@ https://nyotron.com/opcopperfield/
 # Malware
 http://www.securityweek.com/new-custom-rat-hits-targets-east-asia
 https://github.com/elsa999
+http://www.securityweek.com/kaspersky-discovers-powerful-mobile-spyware
