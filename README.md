@@ -82,6 +82,8 @@ http://www.securityweek.com/moxa-nport-devices-vulnerable-remote-attacks
 https://www.fireeye.com/blog/threat-research/2017/12/attackers-deploy-new-ics-attack-framework-triton.html
 https://ics-cert.us-cert.gov/sites/default/files/documents/MAR-17-352-01%20HatMan%E2%80%94Safety%20System%20Targeted%20Malware_S508C.pdf
 
+http://www.securityweek.com/triton-malware-exploited-zero-day-schneider-electric-devices
+
 # Copperfield
 https://nyotron.com/opcopperfield/
 
