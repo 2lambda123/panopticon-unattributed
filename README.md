@@ -70,6 +70,8 @@ http://www.securityweek.com/fileless-attacks-ten-times-more-likely-succeed-repor
 
 www.securityweek.com/fake-news-becomes-business-model-researchers
 
+http://www.securityweek.com/threat-actors-quickly-adopt-effective-exploits
+
 # New Tools
 
 http://www.securityweek.com/terdot-banking-trojan-could-act-cyber-espionage-tool
