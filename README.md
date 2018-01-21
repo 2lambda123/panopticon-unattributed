@@ -86,6 +86,8 @@ https://ics-cert.us-cert.gov/sites/default/files/documents/MAR-17-352-01%20HatMa
 
 http://www.securityweek.com/triton-malware-exploited-zero-day-schneider-electric-devices
 
+http://techgenix.com/triton-malware/
+
 # Copperfield
 https://nyotron.com/opcopperfield/
 
