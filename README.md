@@ -102,5 +102,8 @@ http://www.securityweek.com/new-custom-rat-hits-targets-east-asia
 https://github.com/elsa999
 http://www.securityweek.com/kaspersky-discovers-powerful-mobile-spyware
 
+# Gold Dragon
+https://www.securityweek.com/gold-dragon-implant-linked-pyeongchang-olympics-attacks
+
 # Campaigns 
 https://www.darkreading.com/vulnerabilities---threats/emailed-cyberattack-targets-2018-pyeongchang-olympics/d/d-id/1330768?elq_mid=82531&elq_cid=25141692&_mc=NL_DR_EDT_DR_weekly_20180111&cid=NL_DR_EDT_DR_weekly_20180111&elqTrackId=6c7a32e932074f609e69f4e9d3d48108&elq=152b322aaf174ea184390d9a42045726&elqaid=82531&elqat=1&elqCampaignId=29354
