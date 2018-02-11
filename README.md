@@ -50,6 +50,8 @@ http://www.securityweek.com/meet-mbr-oni-bootkit-ransomware-used-targeted-wiper
 
 http://www.securityweek.com/middle-east-muddywater-attacks-difficult-clear
 
+http://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html
+
 # APTs steal from each other
 
 http://www.information-age.com/nation-state-backed-threat-actors-steal-copy-123468898/
