@@ -112,3 +112,6 @@ https://www.darkreading.com/vulnerabilities---threats/emailed-cyberattack-target
 
 # manufacturing a crowd
 https://www.wired.com/story/isis-russia-manufacture-crowds/
+
+# Anti-Finfisher
+https://www.securityweek.com/windows-defender-atp-detects-spyware-used-law-enforcement-microsoft
