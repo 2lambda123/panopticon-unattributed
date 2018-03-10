@@ -115,3 +115,6 @@ https://www.wired.com/story/isis-russia-manufacture-crowds/
 
 # Anti-Finfisher
 https://www.securityweek.com/windows-defender-atp-detects-spyware-used-law-enforcement-microsoft
+
+# Korea
+https://www.securityweek.com/new-malware-used-attacks-aimed-inter-korean-affairs
