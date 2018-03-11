@@ -52,6 +52,8 @@ http://www.securityweek.com/middle-east-muddywater-attacks-difficult-clear
 
 http://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html
 
+https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos
+
 # APTs steal from each other
 
 http://www.information-age.com/nation-state-backed-threat-actors-steal-copy-123468898/
