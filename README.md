@@ -127,3 +127,6 @@ https://www.securityweek.com/new-cyberespionage-attacks-linked-muddywater-campai
 https://www.securityweek.com/middle-east-muddywater-attacks-difficult-clear
 
 https://www.securityweek.com/recent-fileless-attacks-linked-single-framework-researchers-say
+
+# Olympics
+https://www.securityweek.com/sophisticated-false-flags-planted-olympic-destroyer-malware
