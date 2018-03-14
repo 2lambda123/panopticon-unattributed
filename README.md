@@ -120,3 +120,10 @@ https://www.securityweek.com/windows-defender-atp-detects-spyware-used-law-enfor
 
 # Korea
 https://www.securityweek.com/new-malware-used-attacks-aimed-inter-korean-affairs
+
+# MuddyWater
+https://www.securityweek.com/new-cyberespionage-attacks-linked-muddywater-campaign
+
+https://www.securityweek.com/middle-east-muddywater-attacks-difficult-clear
+
+https://www.securityweek.com/recent-fileless-attacks-linked-single-framework-researchers-say
