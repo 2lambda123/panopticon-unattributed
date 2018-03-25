@@ -130,3 +130,6 @@ https://www.securityweek.com/recent-fileless-attacks-linked-single-framework-res
 
 # Olympics
 https://www.securityweek.com/sophisticated-false-flags-planted-olympic-destroyer-malware
+
+# Slingshot
+https://www.securityweek.com/slingshot-us-government-operation-targeting-terrorists-report
