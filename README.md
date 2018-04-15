@@ -133,3 +133,5 @@ https://www.securityweek.com/sophisticated-false-flags-planted-olympic-destroyer
 
 # Slingshot
 https://www.securityweek.com/slingshot-us-government-operation-targeting-terrorists-report
+
+https://www.securityweek.com/operation-parliament-imitates-another-actor-stay-undetected
