@@ -105,6 +105,7 @@ https://nyotron.com/opcopperfield/
 http://www.securityweek.com/new-custom-rat-hits-targets-east-asia
 https://github.com/elsa999
 http://www.securityweek.com/kaspersky-discovers-powerful-mobile-spyware
+https://www.wired.com/story/inside-the-unnerving-supply-chain-attack-that-corrupted-ccleaner/
 
 # Gold Dragon
 https://www.securityweek.com/gold-dragon-implant-linked-pyeongchang-olympics-attacks
