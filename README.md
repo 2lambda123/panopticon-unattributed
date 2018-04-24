@@ -139,3 +139,6 @@ https://www.securityweek.com/slingshot-us-government-operation-targeting-terrori
 https://www.wired.com/story/app-permissions/?CNDID=50740756&mbid=nl_041618_daily_list3_p2
 
 https://www.securityweek.com/operation-parliament-imitates-another-actor-stay-undetected
+
+# Bots
+https://www.securityweek.com/surge-anonymous-asia-twitter-accounts-sparks-bot-fears
