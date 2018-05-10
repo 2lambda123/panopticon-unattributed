@@ -58,6 +58,8 @@ https://www.darkreading.com/threat-intelligence/apt-attacks-on-mobile-rapidly-em
 
 http://blogs.360.cn/blog/cve-2018-8174-en/?utm_source=hs_email&utm_medium=email&utm_content=62777988&_hsenc=p2ANqtz-_x9OwYVl4fI8kEnqU2kOAjyfaK2XXzHoyYz68ImbGLF3MZovygUbcTWqD3PXNoO6u4N6ZYKPpX9y5DfLHxBa6JhTZBjg&_hsmi=62777988
 
+https://www.wired.com/story/your-smartphone-could-decide-whether-youll-get-a-loan/?CNDID=50740756&mbid=nl_050818_daily_list3_p3
+
 # APTs steal from each other
 
 http://www.information-age.com/nation-state-backed-threat-actors-steal-copy-123468898/
