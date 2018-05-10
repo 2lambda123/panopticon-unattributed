@@ -104,6 +104,8 @@ https://www.darkreading.com/vulnerabilities---threats/schneider-electric-triton-
 
 http://www.securityweek.com/triton-malware-exploited-zero-day-schneider-electric-devices
 
+https://www.wired.com/story/facial-recognition-tech-creepy-works-or-not/?CNDID=50740756&mbid=nl_051018_daily_list3_p3
+
 # Copperfield
 https://nyotron.com/opcopperfield/
 
