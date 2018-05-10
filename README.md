@@ -54,6 +54,8 @@ http://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html
 
 https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos
 
+https://www.darkreading.com/threat-intelligence/apt-attacks-on-mobile-rapidly-emerging/d/d-id/1331746?elq_mid=84669&elq_cid=25141692&_mc=NL_DR_EDT_DR_daily_20180509&cid=NL_DR_EDT_DR_daily_20180509&elqTrackId=8df3c59ea03f4af797af2e81213c9388&elq=6470c74ff53b4c82b4618e729ba21f5d&elqaid=84669&elqat=1&elqCampaignId=30647
+
 # APTs steal from each other
 
 http://www.information-age.com/nation-state-backed-threat-actors-steal-copy-123468898/
