@@ -60,6 +60,8 @@ http://blogs.360.cn/blog/cve-2018-8174-en/?utm_source=hs_email&utm_medium=email&
 
 https://www.wired.com/story/your-smartphone-could-decide-whether-youll-get-a-loan/?CNDID=50740756&mbid=nl_050818_daily_list3_p3
 
+https://www.darkreading.com/attacks-breaches/cyberattack-aimed-to-disrupt-opening-of-winter-olympics-/d/d-id/1331044?elq_mid=83267&elq_cid=25141692&_mc=NL_DR_EDT_DR_weekly_20180215&cid=NL_DR_EDT_DR_weekly_20180215&elqTrackId=9f0c8154edbb452fa12d65e06b6adf1d&elq=5db5b30532904ba582a469dfb5287f24&elqaid=83267&elqat=1&elqCampaignId=29749
+
 # APTs steal from each other
 
 http://www.information-age.com/nation-state-backed-threat-actors-steal-copy-123468898/
