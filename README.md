@@ -64,6 +64,8 @@ https://www.darkreading.com/attacks-breaches/cyberattack-aimed-to-disrupt-openin
 
 https://www.endgame.com/blog/technical-blog/stopping-olympic-destroyer-new-process-injection-insights?utm_source=hs_email&utm_medium=email&utm_content=60674449&_hsenc=p2ANqtz--iPT2tu_cIUtwxp4fsvNozq84HU-klSh5Vpdrz1AorQ31BbAWF34cHLK6Dhhhqv4pq1GfKO6UVwb22Ojx2V8B2Xp4qUg&_hsmi=60674449
 
+https://www.securityweek.com/actor-targeting-middle-east-shows-excellent-opsec
+
 # APTs steal from each other
 
 http://www.information-age.com/nation-state-backed-threat-actors-steal-copy-123468898/
