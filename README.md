@@ -145,6 +145,8 @@ https://www.securityweek.com/recent-fileless-attacks-linked-single-framework-res
 
 https://www.securityweek.com/new-powershell-backdoor-discovered 
 
+https://www.securityweek.com/new-campaign-possibly-linked-muddywater
+
 # Olympics
 https://www.securityweek.com/sophisticated-false-flags-planted-olympic-destroyer-malware
 
