@@ -162,3 +162,6 @@ https://www.securityweek.com/operation-parliament-imitates-another-actor-stay-un
 
 # Bots
 https://www.securityweek.com/surge-anonymous-asia-twitter-accounts-sparks-bot-fears
+
+# Middle East
+https://www.securityweek.com/new-encrypted-downloader-delivers-metasploit-backdoor
