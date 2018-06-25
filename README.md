@@ -151,6 +151,7 @@ https://www.securityweek.com/new-campaign-possibly-linked-muddywater
 
 # Olympics
 https://www.securityweek.com/sophisticated-false-flags-planted-olympic-destroyer-malware
+https://www.wired.com/story/olympic-destroyer-hackers-may-have-returned-for-more/?CNDID=53659400&mbid=nl_062418_daily_list3_p2
 
 # Slingshot
 https://www.securityweek.com/slingshot-us-government-operation-targeting-terrorists-report
