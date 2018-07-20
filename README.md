@@ -169,3 +169,6 @@ https://www.securityweek.com/new-encrypted-downloader-delivers-metasploit-backdo
 
 # India
 https://blog.talosintelligence.com/2018/07/Mobile-Malware-Campaign-uses-Malicious-MDM.html
+
+# Singapore
+https://www.securityweek.com/singapore-health-database-hit-major-cyberattack
