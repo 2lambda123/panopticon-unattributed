@@ -90,6 +90,8 @@ http://www.securityweek.com/threat-actors-quickly-adopt-effective-exploits
 
 http://crowdstrike.lookbookhq.com/global-threat-report-2018-web/cs-2018-global-threat-report?utm_campaign=Threat_Report&utm_medium=Web&utm_source=Marketo
 
+https://www.securityweek.com/cyber-axis-evil-rewriting-cyber-kill-chain
+
 # New Tools
 
 http://www.securityweek.com/terdot-banking-trojan-could-act-cyber-espionage-tool
