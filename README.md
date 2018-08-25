@@ -66,6 +66,8 @@ https://www.endgame.com/blog/technical-blog/stopping-olympic-destroyer-new-proce
 
 https://www.securityweek.com/actor-targeting-middle-east-shows-excellent-opsec
 
+https://www.securityweek.com/new-spyware-framework-android-discovered
+
 # APTs steal from each other
 
 http://www.information-age.com/nation-state-backed-threat-actors-steal-copy-123468898/
