@@ -173,6 +173,7 @@ https://www.securityweek.com/surge-anonymous-asia-twitter-accounts-sparks-bot-fe
 
 # Middle East
 https://www.securityweek.com/new-encrypted-downloader-delivers-metasploit-backdoor
+https://www.securityweek.com/apt-group-uses-windows-zero-day-middle-east-attacks
 
 # India
 https://blog.talosintelligence.com/2018/07/Mobile-Malware-Campaign-uses-Malicious-MDM.html
