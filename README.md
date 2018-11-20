@@ -183,3 +183,6 @@ https://www.securityweek.com/singapore-health-database-hit-major-cyberattack
 
 # Ukraine
 https://www.securityweek.com/rats-bite-ukraine-ongoing-espionage-campaign
+
+# China
+https://www.securityweek.com/adobe-coldfusion-vulnerability-exploited-wild
