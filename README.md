@@ -189,6 +189,7 @@ https://www.securityweek.com/adobe-coldfusion-vulnerability-exploited-wild
 
 # DNSpionage
 https://www.securityweek.com/threat-actor-targets-middle-east-dns-redirections
+https://blog.talosintelligence.com/2018/11/dnspionage-campaign-targets-middle-east.html
 
 # Trolls
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
