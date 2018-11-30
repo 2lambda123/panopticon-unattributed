@@ -186,3 +186,6 @@ https://www.securityweek.com/rats-bite-ukraine-ongoing-espionage-campaign
 
 # China
 https://www.securityweek.com/adobe-coldfusion-vulnerability-exploited-wild
+
+# DNSpionage
+https://www.securityweek.com/threat-actor-targets-middle-east-dns-redirections
