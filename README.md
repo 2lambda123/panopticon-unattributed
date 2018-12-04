@@ -156,6 +156,8 @@ https://www.securityweek.com/new-campaign-possibly-linked-muddywater
 
 https://www.securityweek.com/muddywater-threat-actor-expands-targets-list
 
+https://www.securityweek.com/new-powershell-backdoor-resembles-muddywater-malware
+
 # Olympics
 https://www.securityweek.com/sophisticated-false-flags-planted-olympic-destroyer-malware
 https://www.wired.com/story/olympic-destroyer-hackers-may-have-returned-for-more/?CNDID=53659400&mbid=nl_062418_daily_list3_p2
