@@ -125,6 +125,7 @@ https://github.com/elsa999
 http://www.securityweek.com/kaspersky-discovers-powerful-mobile-spyware
 https://www.wired.com/story/inside-the-unnerving-supply-chain-attack-that-corrupted-ccleaner/
 https://www.securityweek.com/advanced-android-spyware-remained-hidden-two-years
+https://www.securityweek.com/operation-sharpshooter-hits-global-defense-critical-infrastructure-firms
 
 # Gold Dragon
 https://www.securityweek.com/gold-dragon-implant-linked-pyeongchang-olympics-attacks
