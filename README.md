@@ -179,3 +179,6 @@ https://blog.talosintelligence.com/2018/11/dnspionage-campaign-targets-middle-ea
 
 # Trolls
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
+
+# US elections
+https://www.securityweek.com/house-gop-campaign-arm-targeted-unknown-entity-2018
