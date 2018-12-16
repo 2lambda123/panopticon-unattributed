@@ -48,8 +48,6 @@ https://www.bellingcat.com/resources/case-studies/2017/10/27/bahamut-revisited-c
 
 http://www.securityweek.com/meet-mbr-oni-bootkit-ransomware-used-targeted-wiper
 
-http://www.securityweek.com/middle-east-muddywater-attacks-difficult-clear
-
 http://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html
 
 https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos
@@ -143,21 +141,6 @@ https://www.securityweek.com/windows-defender-atp-detects-spyware-used-law-enfor
 
 # Korea
 https://www.securityweek.com/new-malware-used-attacks-aimed-inter-korean-affairs
-
-# MuddyWater
-https://www.securityweek.com/new-cyberespionage-attacks-linked-muddywater-campaign
-
-https://www.securityweek.com/middle-east-muddywater-attacks-difficult-clear
-
-https://www.securityweek.com/recent-fileless-attacks-linked-single-framework-researchers-say
-
-https://www.securityweek.com/new-powershell-backdoor-discovered 
-
-https://www.securityweek.com/new-campaign-possibly-linked-muddywater
-
-https://www.securityweek.com/muddywater-threat-actor-expands-targets-list
-
-https://www.securityweek.com/new-powershell-backdoor-resembles-muddywater-malware
 
 # Olympics
 https://www.securityweek.com/sophisticated-false-flags-planted-olympic-destroyer-malware
