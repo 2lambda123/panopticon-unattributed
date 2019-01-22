@@ -182,3 +182,6 @@ https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78
 
 # US elections
 https://www.securityweek.com/house-gop-campaign-arm-targeted-unknown-entity-2018
+
+# social media manipulation
+https://medium.com/dfrlab/coordinated-comments-in-macedonia-517fe904359b
