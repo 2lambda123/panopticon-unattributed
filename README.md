@@ -186,3 +186,6 @@ https://www.securityweek.com/house-gop-campaign-arm-targeted-unknown-entity-2018
 
 # social media manipulation
 https://medium.com/dfrlab/coordinated-comments-in-macedonia-517fe904359b
+
+# using personal information
+https://www.wired.com/story/wired-guide-personal-data-collection/
