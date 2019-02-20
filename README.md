@@ -189,3 +189,6 @@ https://medium.com/dfrlab/coordinated-comments-in-macedonia-517fe904359b
 
 # using personal information
 https://www.wired.com/story/wired-guide-personal-data-collection/
+
+# Catfishing
+https://www.wired.com/story/nato-stratcom-catfished-soldiers-social-media/?
