@@ -11,84 +11,61 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Lists of tools and tutorials](#lists-of-tools-and-tutorials)
 - [Exploits](#exploits)
 
-### Scanning
+### Generic unattributed actions
 https://www.darkreading.com/application-security/shellshock-still-in-the-crosshairs/d/d-id/1329757?elq_mid=80133&elq_cid=25141692&_mc=NL_DR_EDT_DR_weekly_20170831&cid=NL_DR_EDT_DR_weekly_20170831&elqTrackId=cc6474465650472282774852e9242a3a&elq=1778c95d05874c7e8da99ddfae5a3a17&elqaid=80133&elqat=1&elqCampaignId=27847
-
-
-
-https://arstechnica.com/information-technology/2017/09/for-2nd-time-this-year-windows-0day-exploited-to-install-finspy-creepware/
-
-https://blogs.technet.microsoft.com/mmpc/2016/12/14/twin-zero-day-attacks-promethium-and-neodymium-target-individuals-in-europe/
-
-https://download.microsoft.com/download/E/B/0/EB0F50CC-989C-4B66-B7F6-68CD3DC90DE3/Microsoft_Security_Intelligence_Report_Volume_21_Parallel_Zero-day_Attacks_English.pdf
-
-https://www.wired.com/story/security-roundup-germany-election-software-is-hackable?mbid=nl_091017_daily&CNDID=%25%25CUST_ID%25%25
 
 http://www.securityweek.com/targeted-attacks-leverage-powerpoint-file-malware-delivery
 
-http://www.securityweek.com/internet-providers-possibly-involved-finfisher-surveillance-operations-report
-
-http://www.nextgov.com/defense/2017/09/future-navy-accident-investigations-will-look-cyber-attacks/141025/?oref=ng-channelriver
-
 https://blog.cripperz.sg/2017/09/20/air-jumper-a-malware-exfiltrates-data-via-security-cameras-and-infrared/
 
-https://arstechnica.com/information-technology/2017/09/devs-unknowingly-use-malicious-modules-put-into-official-python-repository/ good to know how supply chain attacks can occur
 
-https://www.wired.com/story/google-play-store-malware?mbid=nl_092217_daily&CNDID=%25%25CUST_ID%25%25
-good to know
+### Generic unattributed malware
+https://www.securityweek.com/new-spyware-framework-android-discovered
 
+
+### Suspected state sponsored
+http://www.securityweek.com/internet-providers-possibly-involved-finfisher-surveillance-operations-report
+
+http://www.securityweek.com/espionage-attack-uses-scripts-data-exfiltration
+
+http://www.securityweek.com/espionage-attack-uses-scripts-data-exfiltration
+
+http://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html
+
+https://www.securityweek.com/actor-targeting-middle-east-shows-excellent-opsec
+
+
+### Specific campaigns
 https://www.eff.org/deeplinks/2017/09/phish-future
 
-http://www.securityweek.com/ddos-attacks-more-likely-hit-critical-infrastructure-apts-europol
-
-http://www.securityweek.com/espionage-attack-uses-scripts-data-exfiltration
-
-Needs to be sorted
-http://www.atimes.com/article/vietnam-grapples-wild-wooly-web/
-
-http://www.securityweek.com/espionage-attack-uses-scripts-data-exfiltration
-
 http://www.securityweek.com/sophisticated-phishing-attacks-target-internet-freedom-activists
+
+
+### Wipers
+http://www.securityweek.com/meet-mbr-oni-bootkit-ransomware-used-targeted-wiper
+
+
+### Olymic Destroyer
+https://www.darkreading.com/attacks-breaches/cyberattack-aimed-to-disrupt-opening-of-winter-olympics-/d/d-id/1331044
+
+https://www.endgame.com/blog/technical-blog/stopping-olympic-destroyer-new-process-injection-insights
+
+### Misc
 
 http://www.zdnet.com/article/state-sponsored-hackers-turn-on-each-other/#ftag=RSSbaffb68
 
 https://arstechnica.com/science/2017/10/sound-of-mystery-attacks-in-cuba-released-its-as-obnoxious-as-youd-expect/?comments=1
 
-https://www.bellingcat.com/resources/case-studies/2017/10/27/bahamut-revisited-cyber-espionage-middle-east-south-asia/
-
-http://www.securityweek.com/meet-mbr-oni-bootkit-ransomware-used-targeted-wiper
-
-http://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html
-
-https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos
-
-https://www.darkreading.com/threat-intelligence/apt-attacks-on-mobile-rapidly-emerging/d/d-id/1331746?elq_mid=84669&elq_cid=25141692&_mc=NL_DR_EDT_DR_daily_20180509&cid=NL_DR_EDT_DR_daily_20180509&elqTrackId=8df3c59ea03f4af797af2e81213c9388&elq=6470c74ff53b4c82b4618e729ba21f5d&elqaid=84669&elqat=1&elqCampaignId=30647
-
-http://blogs.360.cn/blog/cve-2018-8174-en/?utm_source=hs_email&utm_medium=email&utm_content=62777988&_hsenc=p2ANqtz-_x9OwYVl4fI8kEnqU2kOAjyfaK2XXzHoyYz68ImbGLF3MZovygUbcTWqD3PXNoO6u4N6ZYKPpX9y5DfLHxBa6JhTZBjg&_hsmi=62777988
-
-https://www.wired.com/story/your-smartphone-could-decide-whether-youll-get-a-loan/?CNDID=50740756&mbid=nl_050818_daily_list3_p3
-
-https://www.darkreading.com/attacks-breaches/cyberattack-aimed-to-disrupt-opening-of-winter-olympics-/d/d-id/1331044?elq_mid=83267&elq_cid=25141692&_mc=NL_DR_EDT_DR_weekly_20180215&cid=NL_DR_EDT_DR_weekly_20180215&elqTrackId=9f0c8154edbb452fa12d65e06b6adf1d&elq=5db5b30532904ba582a469dfb5287f24&elqaid=83267&elqat=1&elqCampaignId=29749
-
-https://www.endgame.com/blog/technical-blog/stopping-olympic-destroyer-new-process-injection-insights?utm_source=hs_email&utm_medium=email&utm_content=60674449&_hsenc=p2ANqtz--iPT2tu_cIUtwxp4fsvNozq84HU-klSh5Vpdrz1AorQ31BbAWF34cHLK6Dhhhqv4pq1GfKO6UVwb22Ojx2V8B2Xp4qUg&_hsmi=60674449
-
-https://www.securityweek.com/actor-targeting-middle-east-shows-excellent-opsec
-
-https://www.securityweek.com/new-spyware-framework-android-discovered
-
-# APTs steal from each other
-
 http://www.information-age.com/nation-state-backed-threat-actors-steal-copy-123468898/
 
 https://www.thedailybeast.com/the-murky-world-of-spies-hacking-other-spies
 
-# Phishing
 
-https://www.wired.com/story/netflix-phishing-scam/?mbid=nl_110817_daily_list3_p1
 
-# Disinformation
 
-https://www.darkreading.com/cloud/cognitive-mindhacks-how-attackers-spread-disinformation-campaigns/d/d-id/1330334?elq_mid=81352&elq_cid=25141692&_mc=NL_DR_EDT_DR_daily_20171107&cid=NL_DR_EDT_DR_daily_20171107&elqTrackId=7195548e93434bb29b06883de604123a&elq=b1e49e48aef24c5aadadfed9b2188855&elqaid=81352&elqat=1&elqCampaignId=28638
+
+
+
 
 # Trends
 
