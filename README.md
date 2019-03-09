@@ -1,10 +1,20 @@
-# panopticon-unattributed
+![alt tag](https://user-images.githubusercontent.com/24201238/29351849-9c3087b4-82b8-11e7-8fed-350e3b8b4945.png)
 
+# Panopticon Project
+
+## The Unattributed Repository
+A lot of attacks take time to be attributed, but we want to file information on them away so we don't lose it. This repo is for any information that doesn't have a clear repository to file it in.
+
+## Table of Contents
+
+- [Other databases](#other-databases)
+- [Lists of tools and tutorials](#lists-of-tools-and-tutorials)
+- [Exploits](#exploits)
+
+### Scanning
 https://www.darkreading.com/application-security/shellshock-still-in-the-crosshairs/d/d-id/1329757?elq_mid=80133&elq_cid=25141692&_mc=NL_DR_EDT_DR_weekly_20170831&cid=NL_DR_EDT_DR_weekly_20170831&elqTrackId=cc6474465650472282774852e9242a3a&elq=1778c95d05874c7e8da99ddfae5a3a17&elqaid=80133&elqat=1&elqCampaignId=27847
 
-https://securelist.com/miners-on-the-rise/81706/
 
-http://www.vkremez.com/2017/09/lets-learn-reversing-trickbot-banking.html 
 
 https://arstechnica.com/information-technology/2017/09/for-2nd-time-this-year-windows-0day-exploited-to-install-finspy-creepware/
 
