@@ -142,6 +142,7 @@ https://www.securityweek.com/windows-defender-atp-detects-spyware-used-law-enfor
 # Korea
 https://www.securityweek.com/new-malware-used-attacks-aimed-inter-korean-affairs
 https://blog.talosintelligence.com/2019/01/fake-korean-job-posting.html
+https://www.securityweek.com/slack-github-abused-new-slub-backdoor-targeted-attacks
 
 # Olympics
 https://www.securityweek.com/sophisticated-false-flags-planted-olympic-destroyer-malware
