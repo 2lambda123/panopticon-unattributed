@@ -11,6 +11,7 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Lists of tools and tutorials](#lists-of-tools-and-tutorials)
 - [Exploits](#exploits)
 - []
+
 ### Generic unattributed actions
 https://www.darkreading.com/application-security/shellshock-still-in-the-crosshairs/d/d-id/1329757
 
@@ -21,6 +22,8 @@ https://blog.cripperz.sg/2017/09/20/air-jumper-a-malware-exfiltrates-data-via-se
 https://www.securityweek.com/multi-stage-attacks-target-service-centers-russia
 
 https://www.securityweek.com/operation-parliament-imitates-another-actor-stay-undetected
+
+https://www.securityweek.com/recently-patched-winrar-flaw-exploited-apt-attacks
 
 
 ### Generic unattributed malware
