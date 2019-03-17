@@ -49,6 +49,8 @@ https://medium.com/dfrlab/coordinated-comments-in-macedonia-517fe904359b
 
 https://www.wired.com/story/nato-stratcom-catfished-soldiers-social-media/?
 
+https://www.securityweek.com/pro-brexit-twitter-manipulation-continues
+
 
 ### Suspected state sponsored attacks
 http://www.securityweek.com/internet-providers-possibly-involved-finfisher-surveillance-operations-report
