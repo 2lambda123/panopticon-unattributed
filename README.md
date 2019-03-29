@@ -63,6 +63,8 @@ http://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html
 
 https://www.securityweek.com/actor-targeting-middle-east-shows-excellent-opsec
 
+https://www.fireeye.com/blog/threat-research/2019/03/winrar-zero-day-abused-in-multiple-campaigns.html
+
 
 ### Specific campaigns
 https://www.eff.org/deeplinks/2017/09/phish-future
