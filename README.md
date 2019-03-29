@@ -101,6 +101,8 @@ https://www.securityweek.com/slingshot-us-government-operation-targeting-terrori
 ### Farseer
 https://www.securityweek.com/farseer-backdoor-targets-users-south-east-asia
 
+### Shadowhammer
+https://securelist.com/operation-shadowhammer/89992/
 
 ### Korea
 https://www.securityweek.com/new-malware-used-attacks-aimed-inter-korean-affairs
