@@ -104,6 +104,8 @@ https://www.securityweek.com/farseer-backdoor-targets-users-south-east-asia
 ### Shadowhammer
 https://securelist.com/operation-shadowhammer/89992/
 
+https://www.securityweek.com/supply-chain-attack-used-install-backdoors-asus-computers
+
 ### Korea
 https://www.securityweek.com/new-malware-used-attacks-aimed-inter-korean-affairs
 
