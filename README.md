@@ -7,10 +7,33 @@ A lot of attacks take time to be attributed, but we want to file information on 
 
 ## Table of Contents
 
-- [Other databases](#other-databases)
-- [Lists of tools and tutorials](#lists-of-tools-and-tutorials)
-- [Exploits](#exploits)
-- []
+- [Generic unattributed actions](#generic-unattributed-actions)
+- [Generic unattributed malware](#generic-unattributed-malware)
+- [Trolls and social media influence](#trolls-and-social-media-influence)
+- [Suspected state sponsored attacks](#suspected-state-sponsored-attacks)
+- [Wipers](#wipers)
+- [Campaigns](#campaigns)
+  - [Campaigns against activists](#campaigns-against-activists)
+  - [Named espionage campaigns](#named-espionage-campaigns)
+    - [Copperfield](#copperfield)
+    - [Gold Dragon](#gold-dragon)
+    - [DNSpionage](#dnspionage)
+    - [Slingshot](#slingshot)
+    - [Farseer](#farseer)
+    - [Shadowhammer](#shadowhammer)
+  - [Camapigns by continent](#camapigns-by-continent)
+    - [Asia](#asia)
+    - [Middle East](#middle-east)
+  - [Campaigns by country](#campaigns-by-country)
+    - [Korea](#korea)
+    - [India](#india)
+    - [Singapore](#singapore)
+    - [Ukraine](#ukraine)
+    - [China](#china)
+  - [Campaigns against events]
+    - [Olymics](#olymics)
+    - [US elections](#us-elections)
+- [Misc](#misc)
 
 ### Generic unattributed actions
 https://www.darkreading.com/application-security/shellshock-still-in-the-crosshairs/d/d-id/1329757
@@ -66,49 +89,63 @@ https://www.securityweek.com/actor-targeting-middle-east-shows-excellent-opsec
 https://www.fireeye.com/blog/threat-research/2019/03/winrar-zero-day-abused-in-multiple-campaigns.html
 
 
-### Specific campaigns
+### Wipers
+http://www.securityweek.com/meet-mbr-oni-bootkit-ransomware-used-targeted-wiper
+
+
+### Campaigns 
+
+#### Campaigns against activists
 https://www.eff.org/deeplinks/2017/09/phish-future
 
 http://www.securityweek.com/sophisticated-phishing-attacks-target-internet-freedom-activists
 
 
-### Wipers
-http://www.securityweek.com/meet-mbr-oni-bootkit-ransomware-used-targeted-wiper
+#### Named espionage campaigns 
 
-
-### Olymic Destroyer
-https://www.darkreading.com/attacks-breaches/cyberattack-aimed-to-disrupt-opening-of-winter-olympics-/d/d-id/1331044
-
-https://www.endgame.com/blog/technical-blog/stopping-olympic-destroyer-new-process-injection-insights
-
-
-### Copperfield
+##### Copperfield
 https://nyotron.com/opcopperfield/
 
 
-### Gold Dragon
+##### Gold Dragon
 https://www.securityweek.com/gold-dragon-implant-linked-pyeongchang-olympics-attacks
 
 
-### DNSpionage
+##### DNSpionage
 https://www.securityweek.com/threat-actor-targets-middle-east-dns-redirections
 
 https://blog.talosintelligence.com/2018/11/dnspionage-campaign-targets-middle-east.html
 
 
-### Slingshot
+##### Slingshot
 https://www.securityweek.com/slingshot-us-government-operation-targeting-terrorists-report
 
 
-### Farseer
+##### Farseer
 https://www.securityweek.com/farseer-backdoor-targets-users-south-east-asia
 
-### Shadowhammer
+
+##### Shadowhammer
 https://securelist.com/operation-shadowhammer/89992/
 
 https://www.securityweek.com/supply-chain-attack-used-install-backdoors-asus-computers
 
-### Korea
+
+#### Camapigns by continent
+
+##### Asia
+https://www.securityweek.com/surge-anonymous-asia-twitter-accounts-sparks-bot-fears
+
+
+##### Middle East
+https://www.securityweek.com/new-encrypted-downloader-delivers-metasploit-backdoor
+
+https://www.securityweek.com/apt-group-uses-windows-zero-day-middle-east-attacks
+
+
+#### Campaigns by Country
+
+##### Korea
 https://www.securityweek.com/new-malware-used-attacks-aimed-inter-korean-affairs
 
 https://blog.talosintelligence.com/2019/01/fake-korean-job-posting.html
@@ -116,33 +153,29 @@ https://blog.talosintelligence.com/2019/01/fake-korean-job-posting.html
 https://www.securityweek.com/slack-github-abused-new-slub-backdoor-targeted-attacks
 
 
-### Asia
-https://www.securityweek.com/surge-anonymous-asia-twitter-accounts-sparks-bot-fears
-
-
-### Middle East
-https://www.securityweek.com/new-encrypted-downloader-delivers-metasploit-backdoor
-
-https://www.securityweek.com/apt-group-uses-windows-zero-day-middle-east-attacks
-
-
-### India
+##### India
 https://blog.talosintelligence.com/2018/07/Mobile-Malware-Campaign-uses-Malicious-MDM.html
 
 
-### Singapore
+##### Singapore
 https://www.securityweek.com/singapore-health-database-hit-major-cyberattack
 
 
-### Ukraine
+##### Ukraine
 https://www.securityweek.com/rats-bite-ukraine-ongoing-espionage-campaign
 
 
-### China
+##### China
 https://www.securityweek.com/adobe-coldfusion-vulnerability-exploited-wild
 
 
-### Olympics
+#### Campaigns against events
+
+##### Olymics
+https://www.darkreading.com/attacks-breaches/cyberattack-aimed-to-disrupt-opening-of-winter-olympics-/d/d-id/1331044
+
+https://www.endgame.com/blog/technical-blog/stopping-olympic-destroyer-new-process-injection-insights
+
 https://www.darkreading.com/vulnerabilities---threats/emailed-cyberattack-targets-2018-pyeongchang-olympics/d/d-id/1330768
 
 https://www.securityweek.com/sophisticated-false-flags-planted-olympic-destroyer-malware
@@ -150,7 +183,7 @@ https://www.securityweek.com/sophisticated-false-flags-planted-olympic-destroyer
 https://www.wired.com/story/olympic-destroyer-hackers-may-have-returned-for-more/
 
 
-### US elections
+##### US elections
 https://www.securityweek.com/house-gop-campaign-arm-targeted-unknown-entity-2018
 
 
