@@ -168,6 +168,7 @@ https://www.securityweek.com/rats-bite-ukraine-ongoing-espionage-campaign
 ##### China
 https://www.securityweek.com/adobe-coldfusion-vulnerability-exploited-wild
 
+https://www.securityweek.com/amnesty-says-hong-kong-office-hit-china-linked-cyber-attack
 
 #### Campaigns against events
 
