@@ -111,12 +111,6 @@ https://nyotron.com/opcopperfield/
 https://www.securityweek.com/gold-dragon-implant-linked-pyeongchang-olympics-attacks
 
 
-##### DNSpionage
-https://www.securityweek.com/threat-actor-targets-middle-east-dns-redirections
-
-https://blog.talosintelligence.com/2018/11/dnspionage-campaign-targets-middle-east.html
-
-
 ##### Slingshot
 https://www.securityweek.com/slingshot-us-government-operation-targeting-terrorists-report
 
