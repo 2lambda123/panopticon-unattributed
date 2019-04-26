@@ -198,3 +198,5 @@ http://www.information-age.com/nation-state-backed-threat-actors-steal-copy-1234
 https://www.thedailybeast.com/the-murky-world-of-spies-hacking-other-spies
 
 http://crowdstrike.lookbookhq.com/global-threat-report-2018-web/cs-2018-global-threat-report
+
+https://www.securityweek.com/government-officials-targeted-trojanized-teamviewer
