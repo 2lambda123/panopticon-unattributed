@@ -119,12 +119,6 @@ https://www.securityweek.com/slingshot-us-government-operation-targeting-terrori
 https://www.securityweek.com/farseer-backdoor-targets-users-south-east-asia
 
 
-##### Shadowhammer
-https://securelist.com/operation-shadowhammer/89992/
-
-https://www.securityweek.com/supply-chain-attack-used-install-backdoors-asus-computers
-
-
 #### Camapigns by continent
 
 ##### Asia
@@ -163,6 +157,7 @@ https://www.securityweek.com/rats-bite-ukraine-ongoing-espionage-campaign
 https://www.securityweek.com/adobe-coldfusion-vulnerability-exploited-wild
 
 https://www.securityweek.com/amnesty-says-hong-kong-office-hit-china-linked-cyber-attack
+
 
 #### Campaigns against events
 
