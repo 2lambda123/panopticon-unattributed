@@ -74,6 +74,7 @@ https://www.wired.com/story/nato-stratcom-catfished-soldiers-social-media/?
 
 https://www.securityweek.com/pro-brexit-twitter-manipulation-continues
 
+https://www.wired.com/story/far-right-propaganda-facebook-eu-elections/
 
 ### Suspected state sponsored attacks
 http://www.securityweek.com/internet-providers-possibly-involved-finfisher-surveillance-operations-report
