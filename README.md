@@ -30,7 +30,7 @@ A lot of attacks take time to be attributed, but we want to file information on 
     - [Singapore](#singapore)
     - [Ukraine](#ukraine)
     - [China](#china)
-  - [Campaigns against events]
+  - [Campaigns against events](#campaigns-against-events)
     - [Olymics](#olymics)
     - [US elections](#us-elections)
 - [Misc](#misc)
@@ -48,6 +48,7 @@ https://www.securityweek.com/operation-parliament-imitates-another-actor-stay-un
 
 https://www.securityweek.com/recently-patched-winrar-flaw-exploited-apt-attacks
 
+https://www.fireeye.com/blog/threat-research/2019/06/government-in-central-asia-targeted-with-hawkball-backdoor.html
 
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
