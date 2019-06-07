@@ -50,6 +50,8 @@ https://www.securityweek.com/recently-patched-winrar-flaw-exploited-apt-attacks
 
 https://www.fireeye.com/blog/threat-research/2019/06/government-in-central-asia-targeted-with-hawkball-backdoor.html
 
+https://securelist.com/it-threat-evolution-q1-2019/90978/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
