@@ -52,6 +52,8 @@ https://www.fireeye.com/blog/threat-research/2019/06/government-in-central-asia-
 
 https://securelist.com/it-threat-evolution-q1-2019/90978/
 
+https://apnews.com/bc2f19097a4c4fffaa00de6770b8a60d
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
