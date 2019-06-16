@@ -54,6 +54,9 @@ https://securelist.com/it-threat-evolution-q1-2019/90978/
 
 https://apnews.com/bc2f19097a4c4fffaa00de6770b8a60d
 
+https://www.securityweek.com/attack-combines-phishing-steganography-powershell-deliver-malware
+
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
