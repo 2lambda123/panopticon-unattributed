@@ -58,6 +58,8 @@ https://www.securityweek.com/attack-combines-phishing-steganography-powershell-d
 
 https://www.wired.com/story/nsa-zero-day-symantec-buckeye-china/
 
+https://www.securityweek.com/cyberespionage-campaign-targets-android-users-middle-east
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
