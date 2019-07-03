@@ -60,6 +60,8 @@ https://www.wired.com/story/nsa-zero-day-symantec-buckeye-china/
 
 https://www.securityweek.com/cyberespionage-campaign-targets-android-users-middle-east
 
+https://www.securityweek.com/threat-actor-targets-libyans-malware-facebook
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
