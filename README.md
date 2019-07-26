@@ -62,6 +62,8 @@ https://www.securityweek.com/cyberespionage-campaign-targets-android-users-middl
 
 https://www.securityweek.com/threat-actor-targets-libyans-malware-facebook
 
+https://medium.com/dfrlab/facebook-takes-down-the-voice-of-truth-in-ukraine-683fec18bfbd
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
