@@ -79,6 +79,8 @@ https://www.securityweek.com/advanced-android-spyware-remained-hidden-two-years
 
 https://www.securityweek.com/operation-sharpshooter-hits-global-defense-critical-infrastructure-firms
 
+https://www.digitalmunition.me/attackers-trojanize-windows-narrator-tool-to-spy-on-asian-tech-firms/
+
 
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
