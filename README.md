@@ -66,6 +66,8 @@ https://medium.com/dfrlab/facebook-takes-down-the-voice-of-truth-in-ukraine-683f
 
 https://www.securityweek.com/chinese-hackers-hit-technology-firms-southeast-asia-pcshare-backdoor
 
+https://www.forbes.com/sites/zakdoffman/2019/10/04/major-new-android-cyberwarfare-attack-on-citizens-likely-hiding-a-devious-twist/?ss=cybersecurity#6843f9fc4c6d
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
