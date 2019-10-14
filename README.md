@@ -85,6 +85,7 @@ https://www.securityweek.com/operation-sharpshooter-hits-global-defense-critical
 
 https://www.digitalmunition.me/attackers-trojanize-windows-narrator-tool-to-spy-on-asian-tech-firms/
 
+https://www.securityweek.com/attor-cyber-espionage-platform-used-attacks-aimed-russia
 
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
