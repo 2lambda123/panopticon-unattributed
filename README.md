@@ -98,6 +98,8 @@ https://www.securityweek.com/pro-brexit-twitter-manipulation-continues
 
 https://www.wired.com/story/far-right-propaganda-facebook-eu-elections/
 
+https://arstechnica.com/information-technology/2019/10/disinformation-campaigns-not-just-for-state-actors-anymore/
+
 ### Suspected state sponsored attacks
 http://www.securityweek.com/internet-providers-possibly-involved-finfisher-surveillance-operations-report
 
