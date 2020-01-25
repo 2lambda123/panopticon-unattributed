@@ -116,7 +116,7 @@ https://www.fireeye.com/blog/threat-research/2019/03/winrar-zero-day-abused-in-m
 
 ### Wipers
 http://www.securityweek.com/meet-mbr-oni-bootkit-ransomware-used-targeted-wiper
-
+https://cyware.com/news/new-wiper-malware-dustman-takes-on-bahrains-national-oil-company-c67a8b10
 
 ### Campaigns 
 
