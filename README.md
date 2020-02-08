@@ -87,6 +87,8 @@ https://www.digitalmunition.me/attackers-trojanize-windows-narrator-tool-to-spy-
 
 https://www.securityweek.com/attor-cyber-espionage-platform-used-attacks-aimed-russia
 
+https://dragos.com/blog/industry-news/ekans-ransomware-and-ics-operations/
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
