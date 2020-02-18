@@ -21,6 +21,7 @@ A lot of attacks take time to be attributed, but we want to file information on 
     - [Slingshot](#slingshot)
     - [Farseer](#farseer)
     - [Shadowhammer](#shadowhammer)
+    - [Wizard Opium](#wizard-opium)
   - [Camapigns by continent](#camapigns-by-continent)
     - [Asia](#asia)
     - [Middle East](#middle-east)
@@ -145,6 +146,8 @@ https://www.securityweek.com/slingshot-us-government-operation-targeting-terrori
 ##### Farseer
 https://www.securityweek.com/farseer-backdoor-targets-users-south-east-asia
 
+##### Wizard Opium
+https://securelist.com/windows-0-day-exploit-cve-2019-1458-used-in-operation-wizardopium/95432/?utm_source=newsletter&utm_medium=Email&utm_campaign=sl%20weekly%20digest
 
 #### Camapigns by continent
 
