@@ -71,6 +71,8 @@ https://www.forbes.com/sites/zakdoffman/2019/10/04/major-new-android-cyberwarfar
 
 https://blog.yoroi.company/research/transparent-tribe-four-years-later/
 
+https://www.securityweek.com/state-sponsored-cyberspies-use-sophisticated-server-firewall-bypass-technique
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
