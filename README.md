@@ -69,6 +69,8 @@ https://www.securityweek.com/chinese-hackers-hit-technology-firms-southeast-asia
 
 https://www.forbes.com/sites/zakdoffman/2019/10/04/major-new-android-cyberwarfare-attack-on-citizens-likely-hiding-a-devious-twist/?ss=cybersecurity#6843f9fc4c6d
 
+https://blog.yoroi.company/research/transparent-tribe-four-years-later/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
