@@ -94,6 +94,8 @@ https://www.securityweek.com/attor-cyber-espionage-platform-used-attacks-aimed-r
 
 https://dragos.com/blog/industry-news/ekans-ransomware-and-ics-operations/
 
+https://securelist.com/loncom-packer-from-backdoors-to-cobalt-strike/96465/
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
