@@ -73,6 +73,8 @@ https://blog.yoroi.company/research/transparent-tribe-four-years-later/
 
 https://www.securityweek.com/state-sponsored-cyberspies-use-sophisticated-server-firewall-bypass-technique
 
+https://www.securityweek.com/hackers-targeting-azerbaijan-show-interest-scada-systems 
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
