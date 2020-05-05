@@ -75,6 +75,8 @@ https://www.securityweek.com/state-sponsored-cyberspies-use-sophisticated-server
 
 https://www.securityweek.com/hackers-targeting-azerbaijan-show-interest-scada-systems 
 
+https://gbhackers.com/apt-hackers-abusing-microsoft-crypto-api/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
