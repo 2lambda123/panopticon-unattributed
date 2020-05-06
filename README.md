@@ -77,6 +77,8 @@ https://www.securityweek.com/hackers-targeting-azerbaijan-show-interest-scada-sy
 
 https://gbhackers.com/apt-hackers-abusing-microsoft-crypto-api/
 
+https://www.zdnet.com/article/south-korean-industrial-giants-slammed-in-new-info-stealing-hacker-campaign/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
