@@ -79,6 +79,8 @@ https://gbhackers.com/apt-hackers-abusing-microsoft-crypto-api/
 
 https://www.zdnet.com/article/south-korean-industrial-giants-slammed-in-new-info-stealing-hacker-campaign/
 
+https://www.securityweek.com/czech-intel-report-highlights-russian-chinese-spying
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
