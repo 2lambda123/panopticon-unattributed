@@ -67,7 +67,7 @@ https://medium.com/dfrlab/facebook-takes-down-the-voice-of-truth-in-ukraine-683f
 
 https://www.securityweek.com/chinese-hackers-hit-technology-firms-southeast-asia-pcshare-backdoor
 
-https://www.forbes.com/sites/zakdoffman/2019/10/04/major-new-android-cyberwarfare-attack-on-citizens-likely-hiding-a-devious-twist/?ss=cybersecurity#6843f9fc4c6d
+https://www.forbes.com/sites/zakdoffman/2019/10/04/major-new-android-cyberwarfare-attack-on-citizens-likely-hiding-a-devious-twist/
 
 https://blog.yoroi.company/research/transparent-tribe-four-years-later/
 
@@ -80,6 +80,8 @@ https://gbhackers.com/apt-hackers-abusing-microsoft-crypto-api/
 https://www.zdnet.com/article/south-korean-industrial-giants-slammed-in-new-info-stealing-hacker-campaign/
 
 https://www.securityweek.com/czech-intel-report-highlights-russian-chinese-spying
+
+https://securityaffairs.co/wordpress/103321/apt/apt-group-central-asia.html
 
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
