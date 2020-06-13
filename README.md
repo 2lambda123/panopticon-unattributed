@@ -243,3 +243,5 @@ https://www.securityweek.com/government-officials-targeted-trojanized-teamviewer
 https://securelist.com/apt-trends-report-q1-2019/90643/
 
 https://www.virusbulletin.com/blog/2020/03/vb2019-paper-attribution-object-using-rtf-object-dimensions-track-apt-phishing-weaponizers/
+
+https://securelist.com/big-threats-using-code-similarity-part-1/97239/
