@@ -83,6 +83,8 @@ https://www.securityweek.com/czech-intel-report-highlights-russian-chinese-spyin
 
 https://securityaffairs.co/wordpress/103321/apt/apt-group-central-asia.html
 
+https://www.securityweek.com/hackers-target-german-firm-tasked-procuring-covid-19-medical-equipment
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
