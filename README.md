@@ -89,6 +89,8 @@ https://blog.malwarebytes.com/threat-analysis/2020/06/multi-stage-apt-attack-dro
 
 https://unit42.paloaltonetworks.com/acidbox-rare-malware/
 
+https://threatpost.com/espionage-group-utilities-spy-tool/156425/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
