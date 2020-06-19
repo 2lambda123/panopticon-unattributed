@@ -91,6 +91,8 @@ https://unit42.paloaltonetworks.com/acidbox-rare-malware/
 
 https://threatpost.com/espionage-group-utilities-spy-tool/156425/
 
+https://www.securityweek.com/hackers-target-german-firm-tasked-procuring-covid-19-medical-equipment
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
