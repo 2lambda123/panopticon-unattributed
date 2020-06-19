@@ -87,6 +87,8 @@ https://www.securityweek.com/hackers-target-german-firm-tasked-procuring-covid-1
 
 https://blog.malwarebytes.com/threat-analysis/2020/06/multi-stage-apt-attack-drops-cobalt-strike-using-malleable-c2-feature/
 
+https://unit42.paloaltonetworks.com/acidbox-rare-malware/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
