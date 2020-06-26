@@ -93,6 +93,8 @@ https://threatpost.com/espionage-group-utilities-spy-tool/156425/
 
 https://www.securityweek.com/hackers-target-german-firm-tasked-procuring-covid-19-medical-equipment
 
+https://www.securityweek.com/goldenspy-malware-targets-businesses-operating-china
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
