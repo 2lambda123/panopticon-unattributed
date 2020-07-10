@@ -95,6 +95,8 @@ https://www.securityweek.com/hackers-target-german-firm-tasked-procuring-covid-1
 
 https://www.securityweek.com/goldenspy-malware-targets-businesses-operating-china
 
+https://www.securityweek.com/goldenspy-malware-uninstaller-delivered-victims-following-public-exposure
+
 https://www.securityweek.com/mysterious-acidbox-malware-used-turla-exploit-target-russian-organizations
 
 ### Generic unattributed malware
