@@ -99,6 +99,8 @@ https://www.securityweek.com/goldenspy-malware-uninstaller-delivered-victims-fol
 
 https://www.securityweek.com/mysterious-acidbox-malware-used-turla-exploit-target-russian-organizations
 
+https://www.securityweek.com/researchers-find-more-malware-delivered-chinese-tax-software
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
