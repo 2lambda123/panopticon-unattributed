@@ -101,6 +101,8 @@ https://www.securityweek.com/mysterious-acidbox-malware-used-turla-exploit-targe
 
 https://www.securityweek.com/researchers-find-more-malware-delivered-chinese-tax-software
 
+https://thehackernews.com/2020/08/chinese-hacking-malware.html
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
