@@ -103,6 +103,10 @@ https://www.securityweek.com/researchers-find-more-malware-delivered-chinese-tax
 
 https://thehackernews.com/2020/08/chinese-hacking-malware.html
 
+https://us-cert.cisa.gov/ncas/analysis-reports/ar20-216a
+
+https://us-cert.cisa.gov/china
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
