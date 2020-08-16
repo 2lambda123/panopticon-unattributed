@@ -132,6 +132,8 @@ https://securelist.com/loncom-packer-from-backdoors-to-cobalt-strike/96465/
 
 https://www.secureworks.com/blog/apt-campaign-leverages-the-cueisfry-trojan-and-microsoft-word-vulnerability-cve-2014-1761
 
+https://www.fireeye.com/blog/threat-research/2020/08/cookiejar-tracking-adversaries-with-fireeye-endpoint-security-module.html
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
