@@ -109,6 +109,8 @@ https://us-cert.cisa.gov/china
 
 https://www.securityweek.com/financially-motivated-iranian-hackers-adopt-dharma-ransomware
 
+https://securelist.com/it-threat-evolution-q2-2020/98230/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
