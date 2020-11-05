@@ -113,6 +113,8 @@ https://securelist.com/it-threat-evolution-q2-2020/98230/
 
 https://www.securityweek.com/cisa-says-threat-actor-breached-federal-agencys-network
 
+https://www.securityweek.com/sophisticated-threat-actor-exploited-oracle-solaris-zero-day
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
