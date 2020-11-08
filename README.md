@@ -119,6 +119,8 @@ https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/
 
 https://securelist.com/montysthree-industrial-espionage/98972/
 
+https://securelist.com/iamtheking-and-the-slothfulmedia-malware-family/99000/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
