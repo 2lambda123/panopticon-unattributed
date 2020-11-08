@@ -117,6 +117,8 @@ https://www.securityweek.com/sophisticated-threat-actor-exploited-oracle-solaris
 
 https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/
 
+https://securelist.com/montysthree-industrial-espionage/98972/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
