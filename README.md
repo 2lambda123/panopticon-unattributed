@@ -121,6 +121,8 @@ https://securelist.com/montysthree-industrial-espionage/98972/
 
 https://securelist.com/iamtheking-and-the-slothfulmedia-malware-family/99000/
 
+https://securelist.com/apt-trends-report-q3-2020/99204/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
