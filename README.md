@@ -115,6 +115,8 @@ https://www.securityweek.com/cisa-says-threat-actor-breached-federal-agencys-net
 
 https://www.securityweek.com/sophisticated-threat-actor-exploited-oracle-solaris-zero-day
 
+https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
