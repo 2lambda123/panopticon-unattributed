@@ -125,6 +125,8 @@ https://securelist.com/apt-trends-report-q3-2020/99204/
 
 https://www.securityweek.com/state-sponsored-hackers-likely-behind-attacks-covid-19-vaccine-cold-chain
 
+https://securelist.com/apt-annual-review-what-the-worlds-threat-actors-got-up-to-in-2020/99574/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
