@@ -123,6 +123,8 @@ https://securelist.com/iamtheking-and-the-slothfulmedia-malware-family/99000/
 
 https://securelist.com/apt-trends-report-q3-2020/99204/
 
+https://www.securityweek.com/state-sponsored-hackers-likely-behind-attacks-covid-19-vaccine-cold-chain
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
