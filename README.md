@@ -127,6 +127,8 @@ https://www.securityweek.com/state-sponsored-hackers-likely-behind-attacks-covid
 
 https://securelist.com/apt-annual-review-what-the-worlds-threat-actors-got-up-to-in-2020/99574/
 
+https://threatpost.com/apt-leaves-killlsomeone-clue/160975/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
