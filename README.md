@@ -131,6 +131,8 @@ https://threatpost.com/apt-leaves-killlsomeone-clue/160975/
 
 https://cyware.com/news/new-signsight-supply-chain-attack-targeted-certification-authority-in-southeast-asia-twice-f294295c
 
+https://www.hackread.com/two-groups-breached-solarwinds-orion-software-microsoft/ - second group
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
