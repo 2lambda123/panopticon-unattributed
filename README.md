@@ -135,6 +135,8 @@ https://www.hackread.com/two-groups-breached-solarwinds-orion-software-microsoft
 
 https://www.welivesecurity.com/2020/12/17/operation-signsight-supply-chain-attack-southeast-asia/
 
+https://www.welivesecurity.com/2020/12/10/luckymouse-ta428-compromise-able-desktop/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
