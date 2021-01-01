@@ -141,6 +141,8 @@ https://www.securityweek.com/iranian-hackers-access-unprotected-ics-israeli-wate
 
 https://www.haaretz.com/israel-news/tech-news/.premium-exclusive-intricate-hack-against-israeli-crypto-execs-mossad-investigating-1.9211991
 
+https://www.seqrite.com/blog/operation-sidecopy/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
