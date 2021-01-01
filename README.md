@@ -139,6 +139,8 @@ https://www.welivesecurity.com/2020/12/10/luckymouse-ta428-compromise-able-deskt
 
 https://www.securityweek.com/iranian-hackers-access-unprotected-ics-israeli-water-facility
 
+https://www.haaretz.com/israel-news/tech-news/.premium-exclusive-intricate-hack-against-israeli-crypto-execs-mossad-investigating-1.9211991
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
