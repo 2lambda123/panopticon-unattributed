@@ -137,6 +137,8 @@ https://www.welivesecurity.com/2020/12/17/operation-signsight-supply-chain-attac
 
 https://www.welivesecurity.com/2020/12/10/luckymouse-ta428-compromise-able-desktop/
 
+https://www.securityweek.com/iranian-hackers-access-unprotected-ics-israeli-water-facility
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
