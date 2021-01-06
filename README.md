@@ -147,6 +147,8 @@ https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-summar
 
 https://www.securityweek.com/un-maritime-agency-hit-sophisticated-cyberattack
 
+https://www.securityweek.com/china-linked-hackers-used-uefi-malware-north-korea-themed-attacks
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
