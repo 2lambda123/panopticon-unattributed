@@ -145,6 +145,8 @@ https://www.seqrite.com/blog/operation-sidecopy/
 
 https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-summary-of-our-latest-analysis/
 
+https://www.securityweek.com/un-maritime-agency-hit-sophisticated-cyberattack
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
