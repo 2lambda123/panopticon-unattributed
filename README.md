@@ -149,6 +149,8 @@ https://www.securityweek.com/un-maritime-agency-hit-sophisticated-cyberattack
 
 https://www.securityweek.com/china-linked-hackers-used-uefi-malware-north-korea-themed-attacks
 
+https://securelist.com/ie-and-windows-zero-day-operation-powerfall/97976/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
