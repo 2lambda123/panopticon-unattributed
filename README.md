@@ -151,6 +151,8 @@ https://www.securityweek.com/china-linked-hackers-used-uefi-malware-north-korea-
 
 https://securelist.com/ie-and-windows-zero-day-operation-powerfall/97976/
 
+https://www.securityweek.com/sonicwall-says-internal-systems-targeted-hackers-exploiting-zero-day-flaws
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
