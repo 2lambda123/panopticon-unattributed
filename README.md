@@ -153,6 +153,8 @@ https://securelist.com/ie-and-windows-zero-day-operation-powerfall/97976/
 
 https://www.securityweek.com/sonicwall-says-internal-systems-targeted-hackers-exploiting-zero-day-flaws
 
+https://www.securityweek.com/remote-hacker-caught-poisoning-florida-city-water-supply
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
