@@ -155,6 +155,8 @@ https://www.securityweek.com/sonicwall-says-internal-systems-targeted-hackers-ex
 
 https://www.securityweek.com/remote-hacker-caught-poisoning-florida-city-water-supply
 
+https://www.welivesecurity.com/2021/02/01/operation-nightscout-supply-chain-attack-online-gaming-asia/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
