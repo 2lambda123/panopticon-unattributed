@@ -157,6 +157,8 @@ https://www.securityweek.com/remote-hacker-caught-poisoning-florida-city-water-s
 
 https://www.welivesecurity.com/2021/02/01/operation-nightscout-supply-chain-attack-online-gaming-asia/
 
+https://securityaffairs.co/wordpress/115396/data-breach/eba-microsoft-exchange-hacked.html
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
