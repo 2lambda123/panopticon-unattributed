@@ -159,6 +159,8 @@ https://www.welivesecurity.com/2021/02/01/operation-nightscout-supply-chain-atta
 
 https://securityaffairs.co/wordpress/115396/data-breach/eba-microsoft-exchange-hacked.html
 
+https://www.securityweek.com/google-sophisticated-apt-group-burned-11-zero-days-mass-spying-operation
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
