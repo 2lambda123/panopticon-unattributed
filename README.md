@@ -161,6 +161,8 @@ https://securityaffairs.co/wordpress/115396/data-breach/eba-microsoft-exchange-h
 
 https://www.securityweek.com/google-sophisticated-apt-group-burned-11-zero-days-mass-spying-operation
 
+https://www.securityweek.com/apt-abuses-pulse-secure-solarwinds-appliances-same-organization
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
