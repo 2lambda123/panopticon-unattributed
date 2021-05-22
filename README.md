@@ -163,6 +163,8 @@ https://www.securityweek.com/google-sophisticated-apt-group-burned-11-zero-days-
 
 https://www.securityweek.com/apt-abuses-pulse-secure-solarwinds-appliances-same-organization
 
+https://www.dragos.com/blog/industry-news/a-new-water-watering-hole/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
