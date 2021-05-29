@@ -169,6 +169,8 @@ https://us-cert.cisa.gov/ncas/current-activity/2021/05/28/joint-cisa-fbi-cyberse
 
 https://therecord.media/fujitsu-suspends-projectweb-platform-after-japanese-government-hacks/
 
+https://www.ic3.gov/Media/News/2021/210527.pdf
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
