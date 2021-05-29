@@ -173,6 +173,8 @@ https://www.ic3.gov/Media/News/2021/210527.pdf
 
 https://www.securityweek.com/probe-florida-water-plant-hack-led-discovery-watering-hole-attack
 
+https://www.zdnet.com/article/parliamentary-services-pulled-mdm-system-offline-causing-march-aph-outage/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
