@@ -171,6 +171,8 @@ https://therecord.media/fujitsu-suspends-projectweb-platform-after-japanese-gove
 
 https://www.ic3.gov/Media/News/2021/210527.pdf
 
+https://www.securityweek.com/probe-florida-water-plant-hack-led-discovery-watering-hole-attack
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
