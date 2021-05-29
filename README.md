@@ -165,6 +165,8 @@ https://www.securityweek.com/apt-abuses-pulse-secure-solarwinds-appliances-same-
 
 https://www.dragos.com/blog/industry-news/a-new-water-watering-hole/
 
+https://us-cert.cisa.gov/ncas/current-activity/2021/05/28/joint-cisa-fbi-cybersecurity-advisory-sophisticated-spearphishing
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
