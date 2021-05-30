@@ -175,6 +175,8 @@ https://www.securityweek.com/probe-florida-water-plant-hack-led-discovery-wateri
 
 https://www.zdnet.com/article/parliamentary-services-pulled-mdm-system-offline-causing-march-aph-outage/
 
+https://www.securityweek.com/apt-abuses-pulse-secure-solarwinds-appliances-same-organization
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
