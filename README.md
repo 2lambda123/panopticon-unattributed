@@ -177,6 +177,8 @@ https://www.zdnet.com/article/parliamentary-services-pulled-mdm-system-offline-c
 
 https://www.securityweek.com/apt-abuses-pulse-secure-solarwinds-appliances-same-organization
 
+https://www.wired.com/story/mystery-malware-stole-26-million-passwords-from-windows-computers/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
