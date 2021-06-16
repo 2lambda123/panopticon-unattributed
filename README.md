@@ -179,6 +179,8 @@ https://www.securityweek.com/apt-abuses-pulse-secure-solarwinds-appliances-same-
 
 https://www.wired.com/story/mystery-malware-stole-26-million-passwords-from-windows-computers/
 
+https://securelist.com/puzzlemaker-chrome-zero-day-exploit-chain/102771/?utm_source=newsletter&utm_medium=Email&utm_campaign=sl%20weekly%20digest
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
