@@ -181,6 +181,8 @@ https://www.wired.com/story/mystery-malware-stole-26-million-passwords-from-wind
 
 https://securelist.com/puzzlemaker-chrome-zero-day-exploit-chain/102771/?utm_source=newsletter&utm_medium=Email&utm_campaign=sl%20weekly%20digest
 
+https://us-cert.cisa.gov/ncas/current-activity/2021/07/21/malware-targeting-pulse-secure-devices
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
