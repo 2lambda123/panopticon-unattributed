@@ -183,6 +183,8 @@ https://securelist.com/puzzlemaker-chrome-zero-day-exploit-chain/102771/?utm_sou
 
 https://us-cert.cisa.gov/ncas/current-activity/2021/07/21/malware-targeting-pulse-secure-devices
 
+https://blog.malwarebytes.com/threat-intelligence/2021/07/crimea-manifesto-deploys-vba-rat-using-double-attack-vectors/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
