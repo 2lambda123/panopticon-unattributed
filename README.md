@@ -185,6 +185,8 @@ https://us-cert.cisa.gov/ncas/current-activity/2021/07/21/malware-targeting-puls
 
 https://blog.malwarebytes.com/threat-intelligence/2021/07/crimea-manifesto-deploys-vba-rat-using-double-attack-vectors/
 
+https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-trains-with-epic-troll/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
