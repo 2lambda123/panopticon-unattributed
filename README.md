@@ -187,6 +187,8 @@ https://blog.malwarebytes.com/threat-intelligence/2021/07/crimea-manifesto-deplo
 
 https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-trains-with-epic-troll/
 
+https://www.securityweek.com/sophisticated-group-behind-alaska-cyberattack-agency-says
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
