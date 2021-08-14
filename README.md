@@ -193,6 +193,8 @@ https://www.welivesecurity.com/2021/08/06/iistealer-server-side-threat-ecommerce
 
 https://www.welivesecurity.com/2021/08/09/iispy-complex-server-side-backdoor-antiforensic-features/
 
+https://www.welivesecurity.com/2021/08/11/iiserpent-malware-driven-seo-fraud-service/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
