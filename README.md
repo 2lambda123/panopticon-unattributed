@@ -191,6 +191,8 @@ https://www.securityweek.com/sophisticated-group-behind-alaska-cyberattack-agenc
 
 https://www.welivesecurity.com/2021/08/06/iistealer-server-side-threat-ecommerce-transactions/
 
+https://www.welivesecurity.com/2021/08/09/iispy-complex-server-side-backdoor-antiforensic-features/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
