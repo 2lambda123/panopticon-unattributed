@@ -195,6 +195,8 @@ https://www.welivesecurity.com/2021/08/09/iispy-complex-server-side-backdoor-ant
 
 https://www.welivesecurity.com/2021/08/11/iiserpent-malware-driven-seo-fraud-service/
 
+https://www.microsoft.com/security/blog/2021/08/26/widespread-credential-phishing-campaign-abuses-open-redirector-links/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
