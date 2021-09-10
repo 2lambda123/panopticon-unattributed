@@ -197,6 +197,8 @@ https://www.welivesecurity.com/2021/08/11/iiserpent-malware-driven-seo-fraud-ser
 
 https://www.microsoft.com/security/blog/2021/08/26/widespread-credential-phishing-campaign-abuses-open-redirector-links/
 
+https://www.bloomberg.com/news/articles/2021-09-09/united-nations-computers-breached-by-hackers-earlier-this-year
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
