@@ -199,6 +199,8 @@ https://www.microsoft.com/security/blog/2021/08/26/widespread-credential-phishin
 
 https://www.bloomberg.com/news/articles/2021-09-09/united-nations-computers-breached-by-hackers-earlier-this-year
 
+https://www.bleepingcomputer.com/news/security/fbi-and-cisa-warn-of-state-hackers-exploiting-critical-zoho-bug/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
