@@ -203,6 +203,8 @@ https://www.bleepingcomputer.com/news/security/fbi-and-cisa-warn-of-state-hacker
 
 https://www.securityweek.com/cyberattack-alaska-health-department-linked-state-sponsored-hackers
 
+https://www.forbes.com/sites/leemathews/2021/09/20/republican-governors-association-hit-by-exchange-server-hack/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
