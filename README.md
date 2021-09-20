@@ -201,6 +201,8 @@ https://www.bloomberg.com/news/articles/2021-09-09/united-nations-computers-brea
 
 https://www.bleepingcomputer.com/news/security/fbi-and-cisa-warn-of-state-hackers-exploiting-critical-zoho-bug/
 
+https://www.securityweek.com/cyberattack-alaska-health-department-linked-state-sponsored-hackers
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
