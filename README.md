@@ -209,6 +209,8 @@ https://www.securityweek.com/decade-old-adobe-coldfusion-vulnerabilities-exploit
 
 https://blog.lumen.com/no-longer-just-theory-black-lotus-labs-uncovers-linux-executables-deployed-as-stealth-windows-loaders/
 
+https://blog.malwarebytes.com/reports/2021/09/mshtml-attack-targets-russian-state-rocket-centre-and-interior-ministry/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
