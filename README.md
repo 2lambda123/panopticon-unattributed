@@ -207,6 +207,8 @@ https://www.forbes.com/sites/leemathews/2021/09/20/republican-governors-associat
 
 https://www.securityweek.com/decade-old-adobe-coldfusion-vulnerabilities-exploited-ransomware-gang
 
+https://blog.lumen.com/no-longer-just-theory-black-lotus-labs-uncovers-linux-executables-deployed-as-stealth-windows-loaders/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
