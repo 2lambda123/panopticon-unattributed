@@ -213,6 +213,8 @@ https://blog.malwarebytes.com/reports/2021/09/mshtml-attack-targets-russian-stat
 
 https://therecord.media/state-sponsored-hacking-group-targets-port-of-houston-using-zoho-zero-day/
 
+https://www.securityweek.com/google-says-threat-actors-using-new-code-signing-tricks-evade-detection
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
