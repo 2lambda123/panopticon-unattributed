@@ -211,6 +211,8 @@ https://blog.lumen.com/no-longer-just-theory-black-lotus-labs-uncovers-linux-exe
 
 https://blog.malwarebytes.com/reports/2021/09/mshtml-attack-targets-russian-state-rocket-centre-and-interior-ministry/
 
+https://therecord.media/state-sponsored-hacking-group-targets-port-of-houston-using-zoho-zero-day/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
