@@ -215,6 +215,8 @@ https://therecord.media/state-sponsored-hacking-group-targets-port-of-houston-us
 
 https://www.securityweek.com/google-says-threat-actors-using-new-code-signing-tricks-evade-detection
 
+https://news.sophos.com/en-us/2021/10/05/python-ransomware-script-targets-esxi-server-for-encryption/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
