@@ -219,6 +219,8 @@ https://news.sophos.com/en-us/2021/10/05/python-ransomware-script-targets-esxi-s
 
 https://www.welivesecurity.com/2021/10/07/fontonlake-previously-unknown-malware-family-targeting-linux/
 
+https://heimdalsecurity.com/blog/squirrelwaffle-malware-used-to-drop-cobalt-strike/
+
 ### Generic unattributed malware
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
