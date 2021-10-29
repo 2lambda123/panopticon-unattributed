@@ -221,7 +221,7 @@ https://www.welivesecurity.com/2021/10/07/fontonlake-previously-unknown-malware-
 
 https://heimdalsecurity.com/blog/squirrelwaffle-malware-used-to-drop-cobalt-strike/
 
-### Generic unattributed malware
+https://www.welivesecurity.com/2021/10/27/wslink-unique-undocumented-malicious-loader-runs-server/
 https://www.securityweek.com/new-spyware-framework-android-discovered
 
 http://www.securityweek.com/new-custom-rat-hits-targets-east-asia
