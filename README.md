@@ -248,6 +248,8 @@ https://www.secureworks.com/blog/apt-campaign-leverages-the-cueisfry-trojan-and-
 
 https://www.fireeye.com/blog/threat-research/2020/08/cookiejar-tracking-adversaries-with-fireeye-endpoint-security-module.html
 
+https://www.securityweek.com/botenago-malware-targets-routers-iot-devices-over-30-exploits
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
