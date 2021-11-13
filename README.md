@@ -252,6 +252,8 @@ https://www.securityweek.com/botenago-malware-targets-routers-iot-devices-over-3
 
 https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/
 
+https://www.securityweek.com/south-korean-users-targeted-android-spyware-phonespy
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
