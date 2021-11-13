@@ -250,6 +250,8 @@ https://www.fireeye.com/blog/threat-research/2020/08/cookiejar-tracking-adversar
 
 https://www.securityweek.com/botenago-malware-targets-routers-iot-devices-over-30-exploits
 
+https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
