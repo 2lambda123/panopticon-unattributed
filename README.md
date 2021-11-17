@@ -254,6 +254,8 @@ https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using
 
 https://www.securityweek.com/south-korean-users-targeted-android-spyware-phonespy
 
+https://cybersecurity.att.com/blogs/labs-research/att-alien-labs-finds-new-golang-malwarebotenago-targeting-millions-of-routers-and-iot-devices-with-more-than-30-exploits
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
