@@ -256,6 +256,8 @@ https://www.securityweek.com/south-korean-users-targeted-android-spyware-phonesp
 
 https://cybersecurity.att.com/blogs/labs-research/att-alien-labs-finds-new-golang-malwarebotenago-targeting-millions-of-routers-and-iot-devices-with-more-than-30-exploits
 
+https://www.securityweek.com/new-%E2%80%98sharkbot%E2%80%99-android-banking-malware-hitting-us-uk-and-italy-targets
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
