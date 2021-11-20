@@ -262,6 +262,8 @@ https://us-cert.cisa.gov/ncas/current-activity/2021/11/19/updated-apt-exploitati
 
 https://www.zdnet.com/article/google-warns-of-hackers-using-macos-zero-day-flaw-to-capture-keystrokes-screengrabs/
 
+https://blog.talosintelligence.com/2021/11/attackers-use-domain-fronting-technique.html
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
