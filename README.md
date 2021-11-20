@@ -258,6 +258,8 @@ https://cybersecurity.att.com/blogs/labs-research/att-alien-labs-finds-new-golan
 
 https://www.securityweek.com/new-%E2%80%98sharkbot%E2%80%99-android-banking-malware-hitting-us-uk-and-italy-targets
 
+https://us-cert.cisa.gov/ncas/current-activity/2021/11/19/updated-apt-exploitation-manageengine-adselfservice-plus
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
