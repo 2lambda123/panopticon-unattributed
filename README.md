@@ -266,6 +266,8 @@ https://blog.talosintelligence.com/2021/11/attackers-use-domain-fronting-techniq
 
 https://unit42.paloaltonetworks.com/manageengine-godzilla-nglite-kdcsponge/
 
+https://www.cyber.gov.au/acsc/view-all-content/alerts/active-exploitation-vulnerable-sitecore-experience-platform-content-management-systems
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
