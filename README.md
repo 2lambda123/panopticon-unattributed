@@ -264,6 +264,8 @@ https://www.zdnet.com/article/google-warns-of-hackers-using-macos-zero-day-flaw-
 
 https://blog.talosintelligence.com/2021/11/attackers-use-domain-fronting-technique.html
 
+https://unit42.paloaltonetworks.com/manageengine-godzilla-nglite-kdcsponge/
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
