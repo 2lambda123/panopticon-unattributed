@@ -268,6 +268,8 @@ https://unit42.paloaltonetworks.com/manageengine-godzilla-nglite-kdcsponge/
 
 https://www.cyber.gov.au/acsc/view-all-content/alerts/active-exploitation-vulnerable-sitecore-experience-platform-content-management-systems
 
+https://us-cert.cisa.gov/ncas/current-activity/2021/12/02/cisa-and-fbi-release-alert-active-exploitation-cve-2021-44077-zoho
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
