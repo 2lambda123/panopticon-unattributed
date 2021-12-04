@@ -270,6 +270,8 @@ https://www.cyber.gov.au/acsc/view-all-content/alerts/active-exploitation-vulner
 
 https://us-cert.cisa.gov/ncas/current-activity/2021/12/02/cisa-and-fbi-release-alert-active-exploitation-cve-2021-44077-zoho
 
+https://www.securityweek.com/us-agencies-share-more-details-adselfservice-plus-vulnerability-exploitation
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
