@@ -272,6 +272,8 @@ https://us-cert.cisa.gov/ncas/current-activity/2021/12/02/cisa-and-fbi-release-a
 
 https://www.securityweek.com/us-agencies-share-more-details-adselfservice-plus-vulnerability-exploitation
 
+https://0xchina.medium.com/malware-reverse-engineering-carberp-trojan-bd9f283ea0be
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
