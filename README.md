@@ -274,6 +274,8 @@ https://www.securityweek.com/us-agencies-share-more-details-adselfservice-plus-v
 
 https://0xchina.medium.com/malware-reverse-engineering-carberp-trojan-bd9f283ea0be
 
+https://www.securityweek.com/mirai-based-manga-botnet-targets-recent-tp-link-vulnerability
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
