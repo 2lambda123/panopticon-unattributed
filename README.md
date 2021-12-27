@@ -278,6 +278,8 @@ https://www.securityweek.com/mirai-based-manga-botnet-targets-recent-tp-link-vul
 
 https://www.ic3.gov/Media/News/2021/211220.pdf
 
+https://decoded.avast.io/threatintel/avast-finds-backdoor-on-us-government-commission-network/
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
