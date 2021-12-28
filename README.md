@@ -284,6 +284,8 @@ https://www.bleepingcomputer.com/news/security/state-sponsored-hackers-abuse-sla
 
 https://www.bleepingcomputer.com/news/security/log4j-vulnerability-now-used-by-state-backed-hackers-access-brokers/
 
+https://www.securityweek.com/threat-actors-abuse-msbuild-cobalt-strike-beacon-execution
+
 ### Trolls and social media influence
 https://medium.com/dfrlab/trolltracker-glimpse-into-a-french-operation-f78dcae78924
 
