@@ -37,6 +37,9 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+
+https://www.securityweek.com/sophisticated-noberus-ransomware-first-be-coded-rust
+
 https://www.darkreading.com/application-security/shellshock-still-in-the-crosshairs/d/d-id/1329757
 
 http://www.securityweek.com/targeted-attacks-leverage-powerpoint-file-malware-delivery
