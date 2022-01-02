@@ -38,6 +38,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 
 ### Generic unattributed actions
 
+https://www.securityweek.com/russian-who-helped-kelihos-malware-evade-detection-sentenced-4-years-prison
+
 https://www.securityweek.com/sophisticated-noberus-ransomware-first-be-coded-rust
 
 https://www.darkreading.com/application-security/shellshock-still-in-the-crosshairs/d/d-id/1329757
