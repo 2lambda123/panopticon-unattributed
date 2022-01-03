@@ -38,6 +38,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 
 ### Generic unattributed actions
 
+https://www.securityweek.com/sophisticated-ilobleed-rootkit-targets-hp-servers
+
 https://www.wired.com/story/tardigrade-malware-biomanufacturing
 
 https://www.securityweek.com/russian-who-helped-kelihos-malware-evade-detection-sentenced-4-years-prison
