@@ -38,6 +38,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 
 ### Generic unattributed actions
 
+https://www.wired.com/story/tardigrade-malware-biomanufacturing
+
 https://www.securityweek.com/russian-who-helped-kelihos-malware-evade-detection-sentenced-4-years-prison
 
 https://www.securityweek.com/sophisticated-noberus-ransomware-first-be-coded-rust
