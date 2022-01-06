@@ -38,6 +38,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 
 ### Generic unattributed actions
 
+https://www.securityweek.com/zloader-banking-malware-exploits-microsoft-signature-verification
+
 https://www.securityweek.com/sophisticated-ilobleed-rootkit-targets-hp-servers
 
 https://www.wired.com/story/tardigrade-malware-biomanufacturing
