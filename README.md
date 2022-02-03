@@ -37,6 +37,9 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+
+https://medium.com/walmartglobaltech/sugar-ransomware-a-new-raas-a5d94d58d9fb
+
 https://www.securityweek.com/over-100-million-android-users-installed-dark-herring-scamware
 
 https://www.securityweek.com/sophisticated-threat-actor-targets-governments-defense-industry-western-asia
