@@ -38,6 +38,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 
 ### Generic unattributed actions
 
+https://www.mandiant.com/resources/seo-poisoning-batloader-atera
+
 https://medium.com/walmartglobaltech/sugar-ransomware-a-new-raas-a5d94d58d9fb
 
 https://www.securityweek.com/over-100-million-android-users-installed-dark-herring-scamware
