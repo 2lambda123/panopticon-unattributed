@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.bleepingcomputer.com/news/security/law-enforcement-action-push-ransomware-gangs-to-surgical-attacks/
+
 https://www.welivesecurity.com/wp-content/uploads/2022/02/eset_threat_report_t32021.pdf
 
 https://www.securityweek.com/web-skimmer-injected-hundreds-magento-powered-stores
