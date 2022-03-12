@@ -38,6 +38,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 
 ### Generic unattributed actions
 
+https://www.bleepingcomputer.com/news/security/russian-government-sites-hacked-in-supply-chain-attack/
+
 https://therecord.media/phishing-campaign-targets-european-officials-assisting-in-refugee-operations/
 
 https://www.securityweek.com/wiper-used-attack-iran-national-media-network
