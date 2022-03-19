@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://secjoes-reports.s3.eu-central-1.amazonaws.com/Sockbot%2Bin%2BGoLand.pdf
+
 https://www.securityweek.com/hackers-target-german-branch-russian-oil-giant-rosneft
 
 https://www.bleepingcomputer.com/news/security/russian-government-sites-hacked-in-supply-chain-attack/
