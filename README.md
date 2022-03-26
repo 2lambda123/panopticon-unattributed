@@ -37,6 +37,13 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+
+https://isc.sans.edu/forums/diary/Arkei+Variants+From+Vidar+to+Mars+Stealer/28468/
+
+https://isc.sans.edu/forums/diary/Malware+Delivered+Through+Free+Sharing+Tool/28474/
+
+https://www.volexity.com/blog/2022/03/22/storm-cloud-on-the-horizon-gimmick-malware-strikes-at-macos/
+
 https://secjoes-reports.s3.eu-central-1.amazonaws.com/Sockbot%2Bin%2BGoLand.pdf
 
 https://www.securityweek.com/hackers-target-german-branch-russian-oil-giant-rosneft
