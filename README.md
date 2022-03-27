@@ -38,6 +38,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 
 ### Generic unattributed actions
 
+https://www.welivesecurity.com/2022/03/24/crypto-malware-patched-wallets-targeting-android-ios-devices
+
 https://isc.sans.edu/forums/diary/Arkei+Variants+From+Vidar+to+Mars+Stealer/28468/
 
 https://isc.sans.edu/forums/diary/Malware+Delivered+Through+Free+Sharing+Tool/28474/
