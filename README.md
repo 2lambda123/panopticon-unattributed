@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/more-than-15-million-stolen-after-hackers-exploit-defi-platform-inverse-finance/
+
+https://therecord.media/german-wind-turbine-maker-shut-down-after-cyberattack/
+
 https://therecord.media/ola-finance-defi-platform-hacked-nearly-5-million-stolen/
 
 https://www.welivesecurity.com/2022/03/24/crypto-malware-patched-wallets-targeting-android-ios-devices
