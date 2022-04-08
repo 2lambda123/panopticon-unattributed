@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://isc.sans.edu/forums/diary/Windows+MetaStealer+Malware/28522/
+
 https://therecord.media/more-than-15-million-stolen-after-hackers-exploit-defi-platform-inverse-finance/
 
 https://therecord.media/german-wind-turbine-maker-shut-down-after-cyberattack/
