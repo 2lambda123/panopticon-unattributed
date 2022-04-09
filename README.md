@@ -36,7 +36,9 @@ A lot of attacks take time to be attributed, but we want to file information on 
     - [US elections](#us-elections)
 - [Misc](#misc)
 
-### Generic unattributed actions\
+### Generic unattributed actions
+https://www.securityweek.com/new-vidar-infostealer-campaign-hidden-help-file
+
 https://therecord.media/more-than-625-million-stolen-in-defi-hack-of-ronin-network/
 
 https://therecord.media/wonderhero-game-disabled-after-hackers-steal-320000-in-cryptocurrency/
