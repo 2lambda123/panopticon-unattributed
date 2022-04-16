@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.cyberscoop.com/undersea-cable-operator-hacked-hawaii/
+
 https://www.securityweek.com/wind-turbine-giant-nordex-scrambling-recover-cyberattack
 
 https://www.securityweek.com/new-vidar-infostealer-campaign-hidden-help-file
