@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/more-than-13-million-stolen-from-defi-platform-deus-finance/
+
 https://therecord.media/cloudflare-detects-one-of-the-largest-ddos-attacks-on-record-targeting-crypto-platform/
 
 https://www.securityweek.com/north-dakota-based-healthcare-billing-services-group-hacked
