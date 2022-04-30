@@ -37,6 +37,9 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+
+https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/
+
 https://therecord.media/austin-peay-state-university-becomes-latest-us-school-hit-with-ransomware/
 
 https://therecord.media/more-than-13-million-stolen-from-defi-platform-deus-finance/
