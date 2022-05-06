@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://securelist.com/a-new-secret-stash-for-fileless-malware/106393/
+
 https://therecord.media/state-bar-of-georgia-cyberattack/
 
 https://www.securityweek.com/github-says-recent-attack-was-highly-targeted
