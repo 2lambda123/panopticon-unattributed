@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/state-bar-of-georgia-cyberattack/
+
 https://www.securityweek.com/github-says-recent-attack-was-highly-targeted
 
 https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/
