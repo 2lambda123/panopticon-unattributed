@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/more-than-2-million-stolen-from-defi-platform-mm-finance/
+
 https://www.trendmicro.com/en_us/research/22/e/netdooka-framework-distributed-via-privateloader-ppi.html
 
 https://securelist.com/a-new-secret-stash-for-fileless-malware/106393/
