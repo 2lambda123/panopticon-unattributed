@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://isc.sans.edu/forums/diary/Passwordprotected+Excel+spreadsheet+pushes+Remcos+RAT/28616/
+
 https://therecord.media/agco-ransomware-attack-agricultural-sector/
 
 https://therecord.media/more-than-2-million-stolen-from-defi-platform-mm-finance/
