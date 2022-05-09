@@ -37,6 +37,9 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+
+https://cert.gov.ua/article/40135
+
 https://blog.minerva-labs.com/a-new-blustealer-loader-uses-direct-syscalls-to-evade-edrs
 
 https://elastic.github.io/security-research/malware/2022/05/02.blister/article/#
