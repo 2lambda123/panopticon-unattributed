@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://elastic.github.io/security-research/malware/2022/05/02.blister/article/#
+
 https://isc.sans.edu/forums/diary/Passwordprotected+Excel+spreadsheet+pushes+Remcos+RAT/28616/
 
 https://therecord.media/agco-ransomware-attack-agricultural-sector/
