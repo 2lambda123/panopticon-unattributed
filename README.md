@@ -38,6 +38,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 
 ### Generic unattributed actions
 
+https://www.reuters.com/business/agco-says-some-production-facilities-hit-by-ransomware-attack-2022-05-06/
+
 https://cert.gov.ua/article/40135
 
 https://blog.minerva-labs.com/a-new-blustealer-loader-uses-direct-syscalls-to-evade-edrs
