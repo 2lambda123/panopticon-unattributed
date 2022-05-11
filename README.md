@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://thehill.com/policy/cybersecurity/3481627-predominantly-black-rural-university-to-shut-down-after-2021-cyberattack/
+
+https://blog.checkpoint.com/2022/05/10/a-german-car-attack-on-german-vehicle-businesses/
+
 https://therecord.media/defi-protocol-fortress-announces-3-million-hack/
 
 https://www.reuters.com/business/agco-says-some-production-facilities-hit-by-ransomware-attack-2022-05-06/
