@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.proofpoint.com/us/blog/threat-insight/nerbian-rat-using-covid-19-themes-features-sophisticated-evasion-techniques
+
 https://thehill.com/policy/cybersecurity/3481627-predominantly-black-rural-university-to-shut-down-after-2021-cyberattack/
 
 https://blog.checkpoint.com/2022/05/10/a-german-car-attack-on-german-vehicle-businesses/
