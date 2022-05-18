@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.trendmicro.com/en_us/research/22/e/fake-mobile-apps-steal-facebook-credentials--crypto-related-keys.html
+
 https://www.jamf.com/blog/updateagent-adapts-again/
 
 https://medium.com/s2wblog/the-history-of-blackguard-stealer-86207e72ffb4
