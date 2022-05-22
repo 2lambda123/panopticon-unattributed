@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://arxiv.org/pdf/2205.05028.pdf
+
 https://www.vice.com/en/article/k7wmpy/hackers-compromise-a-string-of-nft-discord-channels
 
 https://therecord.media/k-12-cyberattacks-new-mexico-ohio/
