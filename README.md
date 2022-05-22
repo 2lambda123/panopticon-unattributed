@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/k-12-cyberattacks-new-mexico-ohio/
+
+https://therecord.media/greenland-cyberattack-healthcare-systems/
+
 https://therecord.media/nikkei-ransomware-attack-singapore/
 
 https://www.sentinelone.com/blog/denonia-malware-targets-aws-lambda-environments
