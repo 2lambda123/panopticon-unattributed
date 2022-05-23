@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://research.nccgroup.com/2022/05/20/metastealer-filling-the-racoon-void/
+
 https://www.crowdstrike.com/wp-content/uploads/2022/05/crowdstrike-iceapple-a-novel-internet-information-services-post-exploitation-framework.pdf
 
 https://twitter.com/MsftSecIntel/status/1525158219206860801
