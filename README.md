@@ -37,6 +37,9 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+
+https://www.microsoft.com/security/blog/2022/05/23/beneath-the-surface-uncovering-the-shift-in-web-skimming/
+
 https://isc.sans.edu/diary/rss/28674
 
 https://bishopfox.com/blog/decentralized-finance-blockchain-battleground
