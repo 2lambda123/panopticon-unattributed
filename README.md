@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://bishopfox.com/blog/decentralized-finance-blockchain-battleground?utm_source=substack&utm_medium=email
+
 https://www.cert.ssi.gouv.fr/cti/CERTFR-2022-CTI-004/?utm_source=substack&utm_medium=email
 
 https://techcrunch.com/2022/05/23/zola-accounts-hacked/
