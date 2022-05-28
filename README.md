@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.vice.com/en/article/wxdwxn/hacker-steals-database-of-hundreds-of-verizon-employees
+
 https://www.theregister.com/2022/05/26/ransomware_attack_grounds_spicejet/
 
 https://www.microsoft.com/security/blog/2022/05/19/rise-in-xorddos-a-deeper-look-at-the-stealthy-ddos-malware-targeting-linux-devices/
