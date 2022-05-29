@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.akamai.com/blog/security/revil-resurgence-or-copycat
+
 https://www.safetydetectives.com/news/microloans-leak-report/
 
 https://www.vpnmentor.com/blog/mgm-leaked-on-telegram/
