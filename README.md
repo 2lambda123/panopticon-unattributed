@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/cybercriminal-scams-city-of-portland-ore-for-1-4-million/
+
 https://github.blog/2022-05-26-npm-security-update-oauth-tokens/
 
 https://www.akamai.com/blog/security/revil-resurgence-or-copycat
