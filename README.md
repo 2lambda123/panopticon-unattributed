@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.uptycs.com/blog/warzonerat-can-now-evade-with-process-hollowing
+
 https://www.trendmicro.com/en_us/research/22/e/patch-your-wso2-cve-2022-29464-exploited-to-install-linux-compatible-cobalt-strike-beacons-other-malware.html
 
 https://www.courtlistener.com/docket/63345824/bizbudding-inc-v-365-data-centers-llc/
