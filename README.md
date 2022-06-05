@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://blog.sucuri.net/2022/06/analysis-massive-ndsw-ndsx-malware-campaign.html
+
+https://decoded.avast.io/janrubin/parrot-tds-takes-over-web-servers-and-threatens-millions/
+
 https://therecord.media/louisiana-authorities-investigating-ransomware-attack-on-city-of-alexandria/
 
 https://therecord.media/doj-seizes-three-cybercrime-domains/
