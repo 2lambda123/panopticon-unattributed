@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/louisiana-authorities-investigating-ransomware-attack-on-city-of-alexandria/
+
 https://therecord.media/doj-seizes-three-cybercrime-domains/
 
 https://www.uptycs.com/blog/warzonerat-can-now-evade-with-process-hollowing
