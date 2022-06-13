@@ -37,6 +37,9 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+
+https://blog.malwarebytes.com/threat-analysis/2022/06/asyncrat-surpasses-dridex-trickbot-and-emotet-to-become-dominant-email-threat/
+
 https://blog.checkpoint.com/2022/06/09/crypto-miners-leveraging-atlassian-zero-day-vulnerability/
 
 https://blockworks.co/20m-tokens-lost-as-market-maker-wintermute-takes-blame/
