@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://isc.sans.edu/forums/diary/Atlassian+Confluence+Exploits+Seen+By+Our+Honeypots+CVE202226134/28722/
+
 https://www.theregister.com/2022/06/09/facebook_phishing_campaign/
 
 https://www.mcafee.com/blogs/other-blogs/mcafee-labs/instagram-credentials-stealer-disguised-as-mod-app/
