@@ -37,6 +37,7 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.mcafee.com/blogs/other-blogs/mcafee-labs/instagram-credentials-stealer-disguised-as-mod-app/
 
 https://www.specialfraudunit.org.ng/en/?p=1361
 
