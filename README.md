@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://blog.avast.com/fakecrack-campaign
+
 https://pixmsecurity.com/blog/blog/phishing-tactics-how-a-threat-actor-stole-1m-credentials-in-4-months/
 
 https://isc.sans.edu/forums/diary/Atlassian+Confluence+Exploits+Seen+By+Our+Honeypots+CVE202226134/28722/
