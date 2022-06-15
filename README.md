@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://cloudsek.com/threatintelligence/sophisticated-phishing-toolkit-dubbed-nakedpages-for-sale-on-cybercrime-forums/
+
 https://therecord.media/arizona-hospital-says-ssns-of-700000-people-leaked-during-april-ransomware-attack/
 
 https://therecord.media/cape-cod-transit-bureau-still-recovering-from-memorial-day-ransomware-attack/
