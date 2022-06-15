@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://decoded.avast.io/davidalvarez/linux-threat-hunting-syslogk-a-kernel-rootkit-found-under-development-in-the-wild/
+
 https://blog.cloudflare.com/26m-rps-ddos/
 
 https://cloudsek.com/threatintelligence/sophisticated-phishing-toolkit-dubbed-nakedpages-for-sale-on-cybercrime-forums/
