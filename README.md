@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.zscaler.com/blogs/security-research/technical-analysis-purecrypter
+
 https://blog.sekoia.io/bumblebee-a-new-trendy-loader-for-initial-access-brokers/
 
 https://decoded.avast.io/davidalvarez/linux-threat-hunting-syslogk-a-kernel-rootkit-found-under-development-in-the-wild/
