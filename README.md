@@ -37,9 +37,17 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
-https://www.bleepingcomputer.com/news/security/kaiser-permanente-data-breach-exposes-health-data-of-69k-people/
+https://twitter.com/LukasStefanko/status/1534440362080608256
 
-https://blogs.blackberry.com/en/2022/06/symbiote-a-new-nearly-impossible-to-detect-linux-threat
+https://www.nj.com/education/2022/06/final-exams-canceled-in-nj-school-district-after-cyber-attack-cripples-computers.html
+
+https://decrypt.co/102300/cosmos-based-defi-exchange-osmosis-hit-by-5m-exploit
+
+https://www.vice.com/en/article/z34b8j/optimism-crypto-project-hopes-hacker-will-give-back-dollar15-million
+
+https://techcrunch.com/2022/06/08/mobike-passports-identity-exposed/
+
+https://www.bleepingcomputer.com/news/security/kaiser-permanente-data-breach-exposes-health-data-of-69k-people/
 
 https://blog.sucuri.net/2022/06/woocommerce-credit-card-skimmer-uses-telegram-bot-to-exfiltrate-stolen-data.html
 
