@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.bleepingcomputer.com/news/security/kaiser-permanente-data-breach-exposes-health-data-of-69k-people/
+
 https://blogs.blackberry.com/en/2022/06/symbiote-a-new-nearly-impossible-to-detect-linux-threat
 
 https://blog.sucuri.net/2022/06/woocommerce-credit-card-skimmer-uses-telegram-bot-to-exfiltrate-stolen-data.html
