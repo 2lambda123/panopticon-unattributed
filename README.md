@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/staffing-firm-robert-half-says-hackers-targeted-over-1000-customer-accounts
+
+https://www.securityweek.com/germanys-green-party-says-email-system-hit-cyberattack
+
 https://isc.sans.edu/forums/diary/Malspam+pushes+Matanbuchus+malware+leads+to+Cobalt+Strike/28752/
 
 https://www.zscaler.com/blogs/security-research/resurgence-voicemail-themed-phishing-attacks-targeting-key-industry
