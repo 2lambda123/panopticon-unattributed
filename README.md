@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.infosecurity-magazine.com/news/statebacked-hacker-follina-attacks/
+
 https://thehackernews.com/2022/06/hackers-exploiting-unpatched-critical.html
 
 https://twitter.com/LukasStefanko/status/1534440362080608256
