@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://thehackernews.com/2022/06/hackers-exploiting-unpatched-critical.html
+
 https://twitter.com/LukasStefanko/status/1534440362080608256
 
 https://www.nj.com/education/2022/06/final-exams-canceled-in-nj-school-district-after-cyber-attack-cripples-computers.html
