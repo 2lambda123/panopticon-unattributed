@@ -37,6 +37,14 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://apps.web.maine.gov/online/aeviewer/ME/40/667f2112-b49f-445d-be03-dee38e32bf8e.shtml
+
+https://www.zdnet.com/article/two-more-cyber-attacks-hit-israels-water-system/
+
+https://www.zdnet.com/article/israel-says-hackers-are-targeting-its-water-supply-and-treatment-utilities/
+
+https://www.jpost.com/israel-news/article-709867
+
 https://therecord.media/9-arrested-in-netherlands-after-europol-raids-on-phishing-gang/
 
 https://www.securityweek.com/staffing-firm-robert-half-says-hackers-targeted-over-1000-customer-accounts
