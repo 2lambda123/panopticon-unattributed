@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/9-arrested-in-netherlands-after-europol-raids-on-phishing-gang/
+
 https://www.securityweek.com/staffing-firm-robert-half-says-hackers-targeted-over-1000-customer-accounts
 
 https://www.securityweek.com/germanys-green-party-says-email-system-hit-cyberattack
