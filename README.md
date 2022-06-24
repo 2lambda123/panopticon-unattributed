@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+
+https://therecord.media/brazilian-retail-giant-confirms-cyberattack-after-extortion-group-takes-over-twitter-account/
 https://apps.web.maine.gov/online/aeviewer/ME/40/667f2112-b49f-445d-be03-dee38e32bf8e.shtml
 
 https://www.zdnet.com/article/two-more-cyber-attacks-hit-israels-water-system/
@@ -86,8 +88,6 @@ https://isc.sans.edu/forums/diary/Houdini+is+Back+Delivered+Through+a+JavaScript
 https://www.securityweek.com/2000-people-arrested-worldwide-social-engineering-schemes
 
 https://www.securityweek.com/malibot-android-malware-steals-financial-personal-information
-
-https://www.securityweek.com/law-enforcement-dismantle-infrastructure-russian-rsocks-botnet
 
 https://twitter.com/AvastThreatLabs/status/1536322428875440129
 
