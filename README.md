@@ -37,8 +37,14 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/delivery-firm-yodel-scrambling-restore-operations-following-cyberattack
+
+https://www.securityweek.com/mcg-health-faces-lawsuit-over-data-breach-impacting-11-million-individuals
+
+https://www.securityweek.com/us-subsidiary-automotive-hose-maker-nichirin-hit-ransomware
 
 https://therecord.media/brazilian-retail-giant-confirms-cyberattack-after-extortion-group-takes-over-twitter-account/
+
 https://apps.web.maine.gov/online/aeviewer/ME/40/667f2112-b49f-445d-be03-dee38e32bf8e.shtml
 
 https://www.zdnet.com/article/two-more-cyber-attacks-hit-israels-water-system/
