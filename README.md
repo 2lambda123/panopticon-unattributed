@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://cointelegraph.com/news/maiar-decentralized-crypto-exchange-goes-offline-after-bug-discovery
+
 https://therecord.media/personal-data-of-2-million-leaked-in-cyberattack-on-massachusetts-healthcare-group/
 
 https://healthitsecurity.com/news/2-texas-hospitals-infected-with-malicious-code-face-potential-phi-exposure
