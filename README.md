@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://twitter.com/newransom12/status/1533834896933789698
+
+https://therecord.media/password-manager-passwordstate-hacked-to-deploy-malware-on-customer-systems/
+
 https://cointelegraph.com/news/maiar-decentralized-crypto-exchange-goes-offline-after-bug-discovery
 
 https://therecord.media/personal-data-of-2-million-leaked-in-cyberattack-on-massachusetts-healthcare-group/
