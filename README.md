@@ -37,6 +37,12 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://healthitsecurity.com/news/2-texas-hospitals-infected-with-malicious-code-face-potential-phi-exposure
+
+https://isc.sans.edu/forums/diary/Malicious+PowerShell+Targeting+Cryptocurrency+Browser+Extensions/28772/
+
+https://blog.malwarebytes.com/threat-intelligence/2022/06/client-side-magecart-attacks-still-around-but-more-covert/
+
 https://www.securityweek.com/delivery-firm-yodel-scrambling-restore-operations-following-cyberattack
 
 https://www.securityweek.com/mcg-health-faces-lawsuit-over-data-breach-impacting-11-million-individuals
