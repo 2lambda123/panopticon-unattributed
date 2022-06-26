@@ -37,6 +37,12 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://trunc.org/learning/brute-force-attacks-against-windows-remote-desktop
+
+https://www.engadget.com/bored-ape-yacht-club-discord-compromised-185957306.html
+
+https://decoded.avast.io/threatintel/outbreak-of-follina-in-australia/
+
 https://twitter.com/newransom12/status/1533834896933789698
 
 https://therecord.media/password-manager-passwordstate-hacked-to-deploy-malware-on-customer-systems/
