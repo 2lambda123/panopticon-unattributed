@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/ransomware-groups-targeting-mitel-voip-zero-day/
+
 https://trunc.org/learning/brute-force-attacks-against-windows-remote-desktop
 
 https://www.engadget.com/bored-ape-yacht-club-discord-compromised-185957306.html
