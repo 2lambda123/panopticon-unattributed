@@ -37,6 +37,16 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.microsoft.com/security/blog/2022/06/30/toll-fraud-malware-how-an-android-application-can-drain-your-wallet
+
+https://www.amnesty.org/en/latest/research/2018/12/when-best-practice-is-not-good-enough/
+
+https://cyberpolice.gov.ua/news/kiberpolicziya-vykryla-zlochynnu-grupu-na-pryvlasnenni--miljoniv-gryven-ukrayincziv-pid-vyglyadom-soczvyplat-z-yes-4638/
+
+https://www.nbcnews.com/tech/security/state-unemployment-jobs-services-country-cyberattack-rcna36151?
+
+https://therecord.media/publishing-giant-macmillan-still-unable-to-process-orders-after-ransomware-attack/
+
 https://therecord.media/amd-investigating-claims-of-stolen-data
 
 https://www.cisa.gov/uscert/ncas/alerts/aa22-138b
