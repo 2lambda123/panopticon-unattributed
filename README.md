@@ -37,6 +37,9 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+
+https://napavalleyregister.com/news/local/ransomware-attack-caused-ongoing-napa-valley-college-internet-and-phone-system-outage/article_8bc46c5a-f410-11ec-bca2-e35eddc616de.html
+
 https://www.microsoft.com/security/blog/2022/06/30/toll-fraud-malware-how-an-android-application-can-drain-your-wallet
 
 https://www.amnesty.org/en/latest/research/2018/12/when-best-practice-is-not-good-enough/
