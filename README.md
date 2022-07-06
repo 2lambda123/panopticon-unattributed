@@ -37,6 +37,21 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://news.yahoo.co.jp/articles/5623cfcf830e4a580f87b275bab6c614a0a99996
+
+https://www.wsj.com/articles/vast-cache-of-chinese-police-files-offered-for-sale-in-alleged-hack-11656940488
+
+https://edition.cnn.com/2022/07/05/china/china-billion-people-data-leak-intl-hnk/index.html
+
+https://www.ft.com/content/b47c9b0b-9b5c-47fc-aedf-9285bb56553a
+
+https://www.comnews.ru/content/221053/2022-07-05/2022-w27/tyutyuru
+
+https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F35ab75a5-5cec-4bdd-8bdb-b04a2f4634fb_997x768.png
+
+https://www.databreaches.net/exclusive-marriott-hacked-again-yes-heres-what-we-know/
+
+https://therecord.media/nearly-9-million-stolen-from-defi-platform-crema-finance/
 
 https://napavalleyregister.com/news/local/ransomware-attack-caused-ongoing-napa-valley-college-internet-and-phone-system-outage/article_8bc46c5a-f410-11ec-bca2-e35eddc616de.html
 
