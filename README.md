@@ -37,6 +37,20 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://lab52.io/blog/nato-summit-2022-the-perfect-pretext-to-launch-a-cybercampaign/
+
+https://www.nit.pt/fora-de-casa/turismos-rurais-e-hoteis/hacker-russo-atacou-um-hotel-em-lisboa-e-roubou-meio-milhao-de-euros
+
+https://cnnportugal.iol.pt/videos/atraves-da-conta-do-booking-de-hotel-de-lisboa-hacker-so-precisou-de-quatro-dias-para-lucrar-500-mil-euros/62c5de7f0cf26256cd2c4c73
+
+https://www.documentcloud.org/documents/22081825-pfc-list-of-affected-healthcare-organizations
+
+https://www.documentcloud.org/documents/22081824-pfc-data-breach-letterdisclosure
+
+https://www.beckershospitalreview.com/cybersecurity/ransomware-attack-on-finance-company-affects-600-hospitals-practices.html
+
+https://therecord.media/crema-defi-hacker-returns-8-million-in-stolen-funds-awarded-a-1-68-million-bounty
+
 https://twitter.com/FantomFDN/status/1542825366338916352?utm_source=substack&utm_medium=email - got hacked
 
 https://twitter.com/Mudit__Gupta/status/1542840515292532736
