@@ -37,6 +37,14 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://twitter.com/FantomFDN/status/1542825366338916352?utm_source=substack&utm_medium=email - got hacked
+
+https://twitter.com/Mudit__Gupta/status/1542840515292532736
+
+https://twitter.com/ankr/status/1542946210029473792
+
+https://edition.cnn.com/2022/07/01/politics/unemployment-benefits-disrupted-apparent-cyberattack/index.html
+
 https://news.yahoo.co.jp/articles/5623cfcf830e4a580f87b275bab6c614a0a99996
 
 https://www.wsj.com/articles/vast-cache-of-chinese-police-files-offered-for-sale-in-alleged-hack-11656940488
