@@ -37,6 +37,9 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+
+https://twitter.com/peckshield/status/1541036684476706816
+
 https://therecord.media/us-arm-of-japanese-automotive-hose-maker-nichirin-pauses-production-after-ransomware-attack/
 
 https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/interactive-phishing-mark-ii-messenger-chatbot-leveraged-in-a-new-facebook-themed-spam/
