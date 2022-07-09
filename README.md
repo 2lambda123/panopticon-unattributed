@@ -37,6 +37,18 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/interactive-phishing-mark-ii-messenger-chatbot-leveraged-in-a-new-facebook-themed-spam/
+
+https://www.facebook.com/telekom.sk/posts/pfbid02Zi4KTFhcddNMKaEqWUt94poM73KxuNzLwJozvCC1Ze7DFiVPcmNJnZjG22D5xipMl
+
+https://thestack.technology/vodafone-supplier-hacked-syniverse-hack/
+
+https://www.vice.com/en/article/z3xpm8/company-that-routes-billions-of-text-messages-quietly-says-it-was-hacked
+
+https://twitter.com/cyber_etc/status/1541706689346502656
+
+https://www.ic3.gov/Media/Y2022/PSA220628
+
 https://lab52.io/blog/nato-summit-2022-the-perfect-pretext-to-launch-a-cybercampaign/
 
 https://www.nit.pt/fora-de-casa/turismos-rurais-e-hoteis/hacker-russo-atacou-um-hotel-em-lisboa-e-roubou-meio-milhao-de-euros
