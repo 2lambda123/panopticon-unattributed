@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.rfi.fr/fr/afrique/20220703-maurice-le-pouvoir-%C3%A9clabouss%C3%A9-par-un-possible-projet-de-cyber-espionnage
+
+https://tdpelmedia.com/the-port-phillip-prison-in-melbournes-west-has-been-forced-to-suspend-prisoner-visits-after-its-computer-systems-fell-victim-to-a-sophisticated-cyber-ransom-attack
+
 https://twitter.com/cbouzy/status/1540471987893583875
 
 https://twitter.com/peckshield/status/1541036684476706816
