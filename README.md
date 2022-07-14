@@ -37,6 +37,18 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://unit42.paloaltonetworks.com/chromeloader-malware/
+
+https://redcanary.com/blog/chromeloader/
+
+https://www.trendmicro.com/en_us/research/22/g/unpacking-cloud-based-cryptocurrency-miners-that-abuse-github-ac.html
+
+https://thedfirreport.com/2022/07/11/select-xmrig-from-sqlserver/
+
+https://www.crowdstrike.com/blog/callback-malware-campaigns-impersonate-crowdstrike-and-other-cybersecurity-companies/
+
+https://apnews.com/article/technology-angela-merkel-european-central-bank-4cd599a7502d9617a401155abf054502
+
 https://www.rfi.fr/fr/afrique/20220703-maurice-le-pouvoir-%C3%A9clabouss%C3%A9-par-un-possible-projet-de-cyber-espionnage
 
 https://tdpelmedia.com/the-port-phillip-prison-in-melbournes-west-has-been-forced-to-suspend-prisoner-visits-after-its-computer-systems-fell-victim-to-a-sophisticated-cyber-ransom-attack
