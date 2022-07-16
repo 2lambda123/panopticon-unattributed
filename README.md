@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://restoreprivacy.com/lendingtree-data-breach-2022/
+
+https://oag.ca.gov/ecrime/databreach/reports/sb24-555114
+
 https://unit42.paloaltonetworks.com/chromeloader-malware/
 
 https://redcanary.com/blog/chromeloader/
