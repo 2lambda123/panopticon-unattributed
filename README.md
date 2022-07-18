@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/lendingtree-denies-connection-to-data-breach-affecting-200000-but-confirms-a-different-one/
+
 https://restoreprivacy.com/lendingtree-data-breach-2022/
 
 https://oag.ca.gov/ecrime/databreach/reports/sb24-555114
