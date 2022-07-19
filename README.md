@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/indian-flight-booking-site-cleartrip-announces-data-breach/
+
 https://unit42.paloaltonetworks.com/digium-phones-web-shell/
 
 https://www.cisa.gov/uscert/ncas/alerts/aa22-174a
