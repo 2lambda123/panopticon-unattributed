@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/arts-organizations-alarmed-after-wordfly-ransomware-attack/
+
 https://www.securityweek.com/data-stolen-breach-security-company-entrust
 
 https://www.securityweek.com/prestashop-confirms-zero-day-attacks-hitting-ecommerce-servers
