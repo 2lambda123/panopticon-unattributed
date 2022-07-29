@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/it-security-giant-entrust-says-its-investigating-alleged-june-data-breach/
+
 https://www.securityweek.com/crackdown-bec-schemes-100-arrested-europe-man-charged-us
 
 https://www.cisa.gov/uscert/ncas/analysis-reports/ar22-203a
