@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://twitter.com/MistTrack_io/status/1551023385815224321
+
+https://blog.audius.co/article/audius-governance-takeover-post-mortem-7-23-22
+
 https://therecord.media/it-security-giant-entrust-says-its-investigating-alleged-june-data-breach/
 
 https://www.securityweek.com/crackdown-bec-schemes-100-arrested-europe-man-charged-us
