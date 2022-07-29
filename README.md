@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.theregister.com/2022/07/28/spain_radiation_alert/
+
+https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-hackers-who-sabotaged-radiation-alert-system/
+
 https://twitter.com/MistTrack_io/status/1551023385815224321
 
 https://blog.audius.co/article/audius-governance-takeover-post-mortem-7-23-22
