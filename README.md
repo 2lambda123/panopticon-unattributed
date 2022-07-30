@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/experts-warn-of-hacker-claiming-access-to-50-u-s-companies-through-breached-msp/
+
 https://therecord.media/american-dental-association-says-april-cyberattack-involved-ransomware/
 
 https://www.bleepingcomputer.com/news/security/kansas-msp-shuts-down-cloud-services-to-fend-off-cyberattack/
