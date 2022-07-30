@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.bleepingcomputer.com/news/security/kansas-msp-shuts-down-cloud-services-to-fend-off-cyberattack/
+
+https://www.scmagazine.com/news/cloud-security/exchange-vulnerability-may-have-led-to-attack-on-netstandard-msp-researchers-say
+
 https://www.theregister.com/2022/07/28/spain_radiation_alert/
 
 https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-hackers-who-sabotaged-radiation-alert-system/
