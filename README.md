@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/frenzied-mob-steals-more-than-156-million-from-crypto-platform-nomad/
+
 https://www.akamai.com/blog/security/largest-european-ddos-attack-ever
 
 https://www.theregister.com/2022/07/29/us_judiciary_attack/
