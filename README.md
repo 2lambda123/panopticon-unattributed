@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.coindesk.com/markets/2022/08/03/phantom-wallet-exploit-drains-millions-in-sol-tokens/
+
 https://www.ciencia.gob.es/Noticias/2022/Agosto/El-Consejo-Superior-de-Investigaciones-Cient-ficas--CSIC--recibe-un-ciberataque.html
 
 https://techcrunch.com/2022/08/01/wiseasy-android-payment-passwords/
