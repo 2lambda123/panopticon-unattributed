@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://techcrunch.com/2022/08/01/wiseasy-android-payment-passwords/
+
 https://therecord.media/frenzied-mob-steals-more-than-156-million-from-crypto-platform-nomad/
 
 https://www.akamai.com/blog/security/largest-european-ddos-attack-ever
