@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/7-eleven-closes-stores-denmark-after-hacker-attack
+
 https://www.securityweek.com/twilio-hacked-after-employees-tricked-giving-login-credentials
 
 https://www.bleepingcomputer.com/news/security/uk-nhs-suffers-outage-after-cyberattack-on-managed-service-provider/
