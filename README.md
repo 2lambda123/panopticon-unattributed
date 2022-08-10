@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.bleepingcomputer.com/news/security/uk-nhs-suffers-outage-after-cyberattack-on-managed-service-provider/
+
 https://therecord.media/twitter-confirms-january-breach-urges-pseudonymous-accounts-to-not-add-email-or-phone-number/
 
 https://www.coindesk.com/markets/2022/08/03/phantom-wallet-exploit-drains-millions-in-sol-tokens/
