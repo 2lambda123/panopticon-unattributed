@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/nhs-working-with-u-k-cyber-authorities-to-assess-ransomware-attack-on-it-vendor/
+
 https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accounts
 
 https://www.securityweek.com/7-eleven-closes-stores-denmark-after-hacker-attack
