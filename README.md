@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/massive-cyberattack-hits-german-chambers-of-industry-and-commerce/
+
 https://www.securityweek.com/cloudflare-also-targeted-hackers-who-breached-twilio
 
 https://therecord.media/nhs-working-with-u-k-cyber-authorities-to-assess-ransomware-attack-on-it-vendor/
