@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.bleepingcomputer.com/news/security/anonymous-poop-gifting-site-hacked-customers-exposed/
+
 https://www.reuters.com/world/china/hacker-offers-sell-data-485-mln-users-shanghais-covid-app-2022-08-12/
 
 https://www.axios.com/2022/08/11/hanesbrands-ransomware-attack-earnings-report 
