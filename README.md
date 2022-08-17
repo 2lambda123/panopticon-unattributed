@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/signal-discloses-impact-twilio-hack
+
 https://www.volexity.com/blog/2022/08/10/mass-exploitation-of-unauthenticated-zimbra-rce-cve-2022-27925/
 
 https://www.bleepingcomputer.com/news/security/anonymous-poop-gifting-site-hacked-customers-exposed/
