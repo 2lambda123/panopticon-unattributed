@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/fugitive-arrested-after-3-years-charges-related-bec-scheme
+
 https://www.securityweek.com/signal-discloses-impact-twilio-hack
 
 https://www.volexity.com/blog/2022/08/10/mass-exploitation-of-unauthenticated-zimbra-rce-cve-2022-27925/
