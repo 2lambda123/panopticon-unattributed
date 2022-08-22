@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.arnica.io/blog/demystifying-the-pl0x-github-attack
+
 https://trunc.org/learning/sql-injection-attack-log
 
 https://www.securityweek.com/fugitive-arrested-after-3-years-charges-related-bec-scheme
