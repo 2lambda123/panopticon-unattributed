@@ -37,6 +37,14 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+
+https://blog.sonatype.com/more-than-200-cryptominers-flood-npm-and-pypi-registry
+https://twitter.com/bzvr_/status/1557807795877171201
+https://blog.sonatype.com/pypi-package-secretslib-drops-fileless-linux-malware-to-mine-monero
+https://medium.com/checkmarx-security/typosquatting-campaign-targeting-12-of-pythons-top-packages-downloading-malware-hosted-on-github-9501f35b8efb
+https://snyk.io/blog/pypi-malware-discord-roblox-credential-payment-info/
+https://twitter.com/streamlin3d/status/1560020448515080198
+
 https://www.bleepingcomputer.com/news/security/hackers-steal-crypto-from-bitcoin-atms-by-exploiting-zero-day-bug/
 
 https://twitter.com/CelerNetwork/status/1560612106621239298
