@@ -38,6 +38,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 
 ### Generic unattributed actions
 
+https://www.ic3.gov/Media/News/2022/220818.pdf
+
 https://blog.sonatype.com/more-than-200-cryptominers-flood-npm-and-pypi-registry
 https://twitter.com/bzvr_/status/1557807795877171201
 https://blog.sonatype.com/pypi-package-secretslib-drops-fileless-linux-malware-to-mine-monero
