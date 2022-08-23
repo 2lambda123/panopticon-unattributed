@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://generalbytes.atlassian.net/wiki/spaces/ESD/pages/2785509377/Security+Incident+August+18th+2022
+
 https://www.cisa.gov/uscert/ncas/alerts/aa22-228a
 
 https://www.arnica.io/blog/demystifying-the-pl0x-github-attack
