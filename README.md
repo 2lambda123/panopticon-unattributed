@@ -37,6 +37,7 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://news.drweb.com/show/?i=14542&lng=en&utm_source=substack&utm_medium=email
 
 https://www.ic3.gov/Media/News/2022/220818.pdf
 
