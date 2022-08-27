@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.bleepingcomputer.com/news/security/french-hospital-hit-by-10m-ransomware-attack-sends-patients-elsewhere/ - maybe lockbit
+
 https://therecord.media/trinidads-largest-supermarket-chain-crippled-by-cyberattack/
 
 https://news.drweb.com/show/?i=14542&lng=en&utm_source=substack&utm_medium=email
