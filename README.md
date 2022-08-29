@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/twilio-cloudflare-attacked-part-campaign-hit-over-130-organizations
+
 https://www.securityweek.com/doordash-data-compromised-following-twilio-hack
 
 https://www.trendmicro.com/en_us/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus.html
