@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securonix.com/blog/golang-attack-campaign-gowebbfuscator-leverages-office-macros-and-james-webb-images-to-infect-systems/
+
 https://therecord.media/major-u-s-library-service-confirms-ransomware-attack-struggling-to-restore-affected-systems/
 
 https://www.securityweek.com/twilio-cloudflare-attacked-part-campaign-hit-over-130-organizations
