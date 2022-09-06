@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://twitter.com/KyberNetwork/status/1565421305410686976?
+
 https://twitter.com/spoofyroot/status/1565797489080696832
 
 https://apnews.com/article/technology-hacking-data-privacy-23b0d233ddaf6fee4831f69e7b113848
