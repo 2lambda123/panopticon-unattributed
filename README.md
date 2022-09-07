@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/huge-los-angeles-unified-school-district-hit-cyberattack
+
 https://medium.com/@ShadowFi/shadowfi-the-exploit-44733d1f8cb0
 
 https://twitter.com/KyberNetwork/status/1565421305410686976?
