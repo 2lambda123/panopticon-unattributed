@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/bardstown-ransomware-isp
+
 https://www.securityweek.com/keybank-hackers-third-party-provider-stole-customer-data
 
 https://www.securityweek.com/huge-los-angeles-unified-school-district-hit-cyberattack
