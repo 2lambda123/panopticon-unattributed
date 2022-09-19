@@ -39,8 +39,6 @@ A lot of attacks take time to be attributed, but we want to file information on 
 ### Generic unattributed actions
 https://www.straitstimes.com/singapore/330000-starbucks-customers-data-leaked-sold-online-for-3500
 
-https://www.bbc.com/news/technology-62937678
-
 https://twitter.com/GossiTheDog/status/1571506659637268480
 
 https://www.securityweek.com/akamai-sees-europes-biggest-ddos-attack-date
