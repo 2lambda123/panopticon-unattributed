@@ -38,6 +38,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 
 ### Generic unattributed actions
 
+https://www.securityweek.com/over-50000-revolut-customers-affected-data-breach
+
 https://www.securityweek.com/us-government-contractors-targeted-evolving-phishing-campaign
 
 https://www.securityweek.com/american-airlines-says-personal-data-exposed-after-email-phishing-attack
