@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/australian-telecoms-firm-optus-discloses-breach-impacting-customer-data
+
 https://therecord.media/cryptocurrency-company-wintermute-says-hackers-stole-160-million/
 
 https://therecord.media/bosnia-and-herzegovina-investigating-alleged-ransomware-attack-on-parliament/
