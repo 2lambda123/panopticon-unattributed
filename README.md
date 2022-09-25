@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.databreaches.net/ask-fm-user-database-with-350m-user-records-has-shown-up-for-sale/?utm_source=substack&utm_medium=email
+
 https://www.securityweek.com/australian-telecoms-firm-optus-discloses-breach-impacting-customer-data
 
 https://therecord.media/cryptocurrency-company-wintermute-says-hackers-stole-160-million/
