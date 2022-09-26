@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://github.blog/2022-09-21-security-alert-new-phishing-campaign-targets-github-users/
+
 https://www.trendmicro.com/en_us/research/22/i/atlassian-confluence-vulnerability-cve-2022-26134-abused-for-cryptocurrency-mining-other-malware.html
 
 https://blog.reversinglabs.com/blog/threat-analysis-malicious-npm-package-mimicks-material-tailwind-css-tool
