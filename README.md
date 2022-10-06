@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/cisa-multiple-government-hacking-groups-had-long-term-access-to-defense-company
+
 https://www.microsoft.com/security/blog/2022/09/22/malicious-oauth-applications-used-to-compromise-email-servers-and-spread-spam/
 
 https://github.blog/2022-09-21-security-alert-new-phishing-campaign-targets-github-users/
