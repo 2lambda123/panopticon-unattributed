@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://securelist.com/onionpoison-infected-tor-browser-installer-youtube/107627/
+
 https://blog.lumen.com/chaos-is-a-go-based-swiss-army-knife-of-malware/
 
 https://www.securityweek.com/new-maggie-backdoor-targeting-microsoft-sql-servers
