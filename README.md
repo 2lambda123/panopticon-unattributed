@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.stimme-mediengruppe.de/Cyberangriff/
+
 https://securelist.com/agent-tesla-malicious-spam-campaign/107478/
 
 https://securelist.com/self-spreading-stealer-attacks-gamers-via-youtube/107407/
