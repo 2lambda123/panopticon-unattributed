@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.linkedin.com/feed/update/urn:li:share:6986711231885713408/
+
 https://doc.msit.go.kr/SynapDocViewServer/viewer/doc.html
 
 https://twitter.com/mangomarkets/status/1579979342423396352?utm_source=substack&utm_medium=email
