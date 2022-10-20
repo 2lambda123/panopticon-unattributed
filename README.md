@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://twitter.com/BitKeepOS/status/1582157619032395776?utm_source=substack&utm_medium=email
+
 https://www.stimme-mediengruppe.de/Cyberangriff/
 
 https://securelist.com/agent-tesla-malicious-spam-campaign/107478/
