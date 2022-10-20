@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://twitter.com/mangomarkets/status/1579979342423396352?utm_source=substack&utm_medium=email
+https://karlstack.substack.com/p/exclusive-the-man-who-may-have-milked?utm_source=substack&utm_medium=email
+https://dao.mango.markets/dao/MNGO/proposal/GYhczJdNZAhG24dkkymWE9SUZv8xC4g8s9U8VF5Yprne?utm_source=substack&utm_medium=email
+
 https://twitter.com/BitKeepOS/status/1582157619032395776?utm_source=substack&utm_medium=email
 
 https://www.stimme-mediengruppe.de/Cyberangriff/
