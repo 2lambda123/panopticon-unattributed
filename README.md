@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/retail-giant-woolworths-discloses-data-breach-impacting-22-million-mydeal-customers
+
 https://www.securityweek.com/australian-health-insurer-medibank-targeted-cyberattack
 
 https://www.linkedin.com/feed/update/urn:li:share:6986711231885713408/
