@@ -40,6 +40,7 @@ A lot of attacks take time to be attributed, but we want to file information on 
 https://www.securityweek.com/australian-health-insurer-medibank-targeted-cyberattack
 
 https://www.linkedin.com/feed/update/urn:li:share:6986711231885713408/
+https://www.theregister.com/2022/10/13/blacklotus_malware_kaspersky/
 
 https://doc.msit.go.kr/SynapDocViewServer/viewer/doc.html
 
