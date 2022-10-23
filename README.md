@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.thestar.com/politics/federal/2022/10/18/mps-warned-to-change-email-passwords-after-cyber-attack-on-canadian-government.html - risky biz says ransomware
+
 https://therecord.media/indian-energy-company-tata-power-announces-cyberattack-affecting-it-infrastructure/
 
 https://www.securityweek.com/retail-giant-woolworths-discloses-data-breach-impacting-22-million-mydeal-customers
