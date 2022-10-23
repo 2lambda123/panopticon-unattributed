@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://cointelegraph.com/news/moola-market-attacker-returns-most-of-9m-looted-for-500k-bounty
+
 https://www.thestar.com/politics/federal/2022/10/18/mps-warned-to-change-email-passwords-after-cyber-attack-on-canadian-government.html - risky biz says ransomware
 
 https://therecord.media/indian-energy-company-tata-power-announces-cyberattack-affecting-it-infrastructure/
