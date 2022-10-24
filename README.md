@@ -37,6 +37,13 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/ukraine-dismantles-social-media-bot-farm-spreading-panic/
+https://www.bleepingcomputer.com/news/security/ukraine-dismantles-5-disinformation-bot-farms-seizes-10-000-sim-cards/
+https://ssu.gov.ua/en/novyny/sbu-likviduvala-milionnu-botofermu-yaka-rozkhytuvala-obstanovku-v-ukraini-na-zamovlennia-odniiei-z-politsyl-video
+https://ssu.gov.ua/en/novyny/sbu-zablokuvala-shche-dvi-botofermy-yaki-rozghanialy-destruktyvnyi-kontent-v-ukraini
+https://cyberpolice.gov.ua/news/kiberpolicziya-vykryla-masshtabnu-merezhu-botoferm-shho-poshyryuvala-fejky-ta-propagandu-pro-vijnu-v-ukrayini--yurij-vyxodecz-3162/
+https://ssu.gov.ua/novyny/sbu-likviduvala-u-dnipri-vorozhu-botofermu-yaka-stvoryla-maizhe-10-tys-feikovykh-akauntiv-dlia-rozghonu-kremlivskoi-propahandy-v-yes
+
 https://cointelegraph.com/news/moola-market-attacker-returns-most-of-9m-looted-for-500k-bounty
 
 https://www.thestar.com/politics/federal/2022/10/18/mps-warned-to-change-email-passwords-after-cyber-attack-on-canadian-government.html - risky biz says ransomware
