@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.fortinet.com/blog/threat-research/ukrainian-excel-file-delivers-multi-stage-cobalt-strike-loader?utm_source=substack&utm_medium=email
+
 https://www.theregister.com/2022/10/12/hospital_outages_ransomware/
 
 https://therecord.media/ukraine-dismantles-social-media-bot-farm-spreading-panic/
