@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://securelist.com/top-10-unattributed-apt-mysteries/107676/
+
 https://www.todayonline.com/singapore/carousell-date-breach-phone-email-7-days-later-2025946
 
 https://www.lanacion.com.ar/politica/hubo-un-ataque-informatico-al-estado-mayor-conjunto-de-las-fuerzas-armadas-nid20102022/
