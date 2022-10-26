@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://blog.group-ib.com/majikpos_treasurehunter_malware
+
 https://twitter.com/TheLayer2DAO/status/1583994186982109185
 
 https://therecord.media/crypto-trading-platform-mango-markets-drained-of-more-than-100-million-in-flash-loan-attack/
