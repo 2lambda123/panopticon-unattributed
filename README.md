@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/crypto-trading-platform-mango-markets-drained-of-more-than-100-million-in-flash-loan-attack/
+
 https://securelist.com/top-10-unattributed-apt-mysteries/107676/
 
 https://www.todayonline.com/singapore/carousell-date-breach-phone-email-7-days-later-2025946
