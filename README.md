@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://medium.com/qanplatform/qanx-bridge-wallet-disclosure-analysis-continuously-updated-724121bbbf9a
+
 https://blog.group-ib.com/majikpos_treasurehunter_malware
 
 https://twitter.com/TheLayer2DAO/status/1583994186982109185
