@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://twitter.com/staxfinance/status/1579855195693256704?utm_source=substack&utm_medium=email
+
 https://medium.com/qanplatform/qanx-bridge-wallet-disclosure-analysis-continuously-updated-724121bbbf9a
 
 https://blog.group-ib.com/majikpos_treasurehunter_malware
