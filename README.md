@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/slovak-polish-parliaments-hit-cyberattacks
+
 https://therecord.media/defi-platform-robbed-of-nearly-15-million-in-hack/
 
 https://twitter.com/staxfinance/status/1579855195693256704?utm_source=substack&utm_medium=email
