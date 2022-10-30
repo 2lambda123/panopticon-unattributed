@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/see-tickets-customer-payment-card-data-stolen-web-skimmer
+
 https://www.securityweek.com/slovak-polish-parliaments-hit-cyberattacks
 
 https://therecord.media/defi-platform-robbed-of-nearly-15-million-in-hack/
