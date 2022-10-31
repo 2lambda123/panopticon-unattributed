@@ -37,6 +37,14 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://twitter.com/friesdao/status/1586455466833739776
+https://docs.google.com/document/d/1xKZmj1aeM9iFrdQ7sieUNvh0_UI60worl1lfs5ImXk0/edit
+https://metaschool.so/articles/wintermute-hack-profanity/
+https://medium.com/qanplatform/qanx-bridge-wallet-disclosure-analysis-continuously-updated-724121bbbf9a
+https://www.scorechain.com/blog/profanity-exploit
+https://reimaginedfi.medium.com/refi-security-compromise-post-mortem-b33621272c5a
+https://cryptoslate.com/wintermute-hack-replicated-on-simple-laptop-in-under-48-hours-by-exploiting-profanity-flaw/
+
 https://www.securityweek.com/label-giant-multi-color-corporation-discloses-data-breach
 
 https://www.securityweek.com/copper-giant-aurubis-shuts-down-systems-due-cyberattack
