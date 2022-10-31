@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/copper-giant-aurubis-shuts-down-systems-due-cyberattack
+
 https://www.twilio.com/blog/august-2022-social-engineering-attack
 
 https://www.securityweek.com/indianapolis-low-income-housing-agency-hit-ransomware
