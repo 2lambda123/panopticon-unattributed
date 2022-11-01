@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/bed-bath-beyond-investigating-data-breach-after-employee-falls-phishing-attack
+
 https://twitter.com/friesdao/status/1586455466833739776
 https://docs.google.com/document/d/1xKZmj1aeM9iFrdQ7sieUNvh0_UI60worl1lfs5ImXk0/edit
 https://metaschool.so/articles/wintermute-hack-profanity/
