@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/hackers-stole-source-code-personal-data-dropbox-following-phishing-attack
+
 https://www.securityweek.com/bed-bath-beyond-investigating-data-breach-after-employee-falls-phishing-attack
 
 https://twitter.com/friesdao/status/1586455466833739776
