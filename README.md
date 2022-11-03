@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.dragos.com/blog/industry-news/dragos-industrial-ransomware-analysis-q3-2022/
+
 https://www.fortinet.com/blog/threat-research/fake-hungarian-government-email-drops-warzone-rat
 
 https://www.stuff.co.nz/business/130310228/air-nz-faces-cyber-breach-multiple-accounts-compromised
