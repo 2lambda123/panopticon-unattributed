@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.abc.net.au/news/2022-10-31/defence-department-ransomware-attack-forecenet-australia/101596230
+
 https://therecord.media/28-million-stolen-from-cryptocurrency-platform-deribit
 
 https://www.securityweek.com/hackers-stole-source-code-personal-data-dropbox-following-phishing-attack
