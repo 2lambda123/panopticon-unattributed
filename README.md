@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.bleepingcomputer.com/news/security/hackers-breach-software-vendor-for-magento-supply-chain-attacks/
+
 https://www.securityweek.com/iran-state-tv-hacked-image-supreme-leader-crosshairs
 
 https://www.dragos.com/blog/industry-news/dragos-industrial-ransomware-analysis-q3-2022/
