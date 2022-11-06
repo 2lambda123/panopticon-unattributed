@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/cyberattack-causes-trains-stop-denmark
+
 https://unit42.paloaltonetworks.com/web-skimmer-video-distribution/
 
 https://www.bleepingcomputer.com/news/security/alma-observatory-shuts-down-operations-due-to-a-cyberattack/
