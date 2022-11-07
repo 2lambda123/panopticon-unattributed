@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://medium.com/pnetwork/pgala-post-mortem-measures-taken-to-safeguard-the-ecosystem-from-malicious-actors-and-recovery-6407048f4497
+
 https://therecord.media/cyber-incident-at-boeing-subsidiary-causes-flight-planning-disruptions/
 
 https://www.securityweek.com/cyberattack-causes-trains-stop-denmark
