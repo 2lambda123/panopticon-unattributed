@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.freightwaves.com/news/cyberattack-disrupts-mexico-transportation-system
+
+https://www.gob.mx/sct/prensa/informa-sict-que-software-malicioso-no-dano-sistemas-internos-ni-vulnero-datos-personales
+
 https://www.cisa.gov/uscert/ncas/analysis-reports/ar22-314a
 
 https://www.clarionledger.com/story/news/2022/11/09/mississippi-secretary-of-state-website-cyberattack-victim-election-day/69631948007/
