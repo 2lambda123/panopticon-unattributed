@@ -37,6 +37,12 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://pando.im/news/2022/2022-11-06-alert-to-pando-community-hack-of-pando-rings/
+
+https://twitter.com/pando_im/status/1589045252413100032
+
+https://twitter.com/pando_im/status/1589113232899575809
+
 https://www.freightwaves.com/news/cyberattack-disrupts-mexico-transportation-system
 
 https://www.gob.mx/sct/prensa/informa-sict-que-software-malicioso-no-dano-sistemas-internos-ni-vulnero-datos-personales
