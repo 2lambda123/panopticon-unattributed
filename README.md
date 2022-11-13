@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.cisa.gov/uscert/ncas/analysis-reports/ar22-314a
+
 https://www.clarionledger.com/story/news/2022/11/09/mississippi-secretary-of-state-website-cyberattack-victim-election-day/69631948007/
 
 https://telex.hu/tech/2022/11/09/kreta-rendszer-ekreta-zrt-adathalasz-tamadas-adatszivargas-elhallgatas-naih-vizsgalat-eljaras
