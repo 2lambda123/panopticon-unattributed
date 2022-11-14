@@ -38,6 +38,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 
 ### Generic unattributed actions
 
+https://edition.cnn.com/2022/11/12/business/ftx-hack/index.html
+
 https://sansec.io/research/extortion-magento-bitcoin
 
 https://www.justice.gov/usao-cdca/pr/nigerian-man-sentenced-over-11-years-federal-prison-conspiring-launder-tens-millions
