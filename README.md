@@ -38,6 +38,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 
 ### Generic unattributed actions
 
+https://www.securitylab.ru/news/534762.php
+
 https://www.wired.com/story/ftx-hack-theft-crypto-tracing/
 
 https://archive.ph/SwSl1
