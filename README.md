@@ -40,6 +40,9 @@ A lot of attacks take time to be attributed, but we want to file information on 
 https://www.hindustantimes.com/cities/delhi-news/ransomware-suspected-as-aiims-servers-go-down-trigger-long-waits-101669229051577.html
 
 http://web.archive.org/web/20221125033216/https://www.regionguadeloupe.fr/accueil/
+https://therecord.media/guadeloupe-kickstarts-continuity-plan-after-wide-ranging-cyberattack/
+
+https://www.smh.com.au/world/oceania/australia-called-in-to-help-after-hackers-shut-down-vanuatu-government-systems-20221114-p5by7a.html
 
 https://apps.web.maine.gov/online/aeviewer/ME/40/15d25674-a4a0-46de-b499-4d1cd704f26d.shtml?utm_source=substack&utm_medium=email
 
