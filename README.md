@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://sysdig.com/blog/analysis-of-supply-chain-attacks-through-public-docker-images/
+
 https://www.hindustantimes.com/cities/delhi-news/ransomware-suspected-as-aiims-servers-go-down-trigger-long-waits-101669229051577.html
 
 http://web.archive.org/web/20221125033216/https://www.regionguadeloupe.fr/accueil/
