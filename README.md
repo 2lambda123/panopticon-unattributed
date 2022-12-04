@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/binance-freezes-3-million-worth-of-crypto-stolen-in-ankr-hack/
+
 https://sysdig.com/blog/analysis-of-supply-chain-attacks-through-public-docker-images/
 
 https://www.hindustantimes.com/cities/delhi-news/ransomware-suspected-as-aiims-servers-go-down-trigger-long-waits-101669229051577.html
