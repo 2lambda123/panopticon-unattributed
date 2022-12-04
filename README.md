@@ -47,6 +47,7 @@ http://web.archive.org/web/20221125033216/https://www.regionguadeloupe.fr/accuei
 https://therecord.media/guadeloupe-kickstarts-continuity-plan-after-wide-ranging-cyberattack/
 
 https://www.smh.com.au/world/oceania/australia-called-in-to-help-after-hackers-shut-down-vanuatu-government-systems-20221114-p5by7a.html
+https://www.securityweek.com/vanuatu-struggles-back-online-after-cyberattack
 
 https://apps.web.maine.gov/online/aeviewer/ME/40/15d25674-a4a0-46de-b499-4d1cd704f26d.shtml?utm_source=substack&utm_medium=email
 
