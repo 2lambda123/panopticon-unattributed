@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/rackspace-shuts-down-hosted-exchange-systems-due-security-incident
+
 https://www.mandiant.com/resources/blog/dissecting-nomad-bridge-hack - each group at least touched Tornado cash
 
 https://therecord.media/hackers-accessed-lastpass-customer-details-using-information-stolen-in-august-hack/
