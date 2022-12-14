@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/california-hospital-breach-exposed-patients-social-security-numbers-medical-info/
+
 https://www.securityweek.com/uber-data-leaked-following-breach-third-party-vendor
 
 https://www.securityweek.com/new-python-based-backdoor-targeting-vmware-esxi-servers
