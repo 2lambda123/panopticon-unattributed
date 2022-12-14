@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/new-python-based-backdoor-targeting-vmware-esxi-servers
+
 https://www.vedomosti.ru/technology/articles/2022/12/01/953164-informatsiya-bilaina-utekla
 
 https://archive.ph/hPLS1
