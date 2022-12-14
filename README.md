@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.nytimes.com/2022/12/09/arts/music/met-opera-cyberattack-tickets.html
+
 https://github.com/AndroVirus/CHAOS-RAT
 
 https://research.checkpoint.com/2022/pulling-the-curtains-on-azov-ransomware-not-a-skidsware-but-polymorphic-wiper/
