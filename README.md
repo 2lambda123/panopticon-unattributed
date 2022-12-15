@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/hacker-claims-breach-fbis-critical-infrastructure-portal
+
 https://www.securityweek.com/email-hack-hits-15000-business-customers-australian-telecoms-firm-tpg
 
 https://www.nytimes.com/2022/12/09/arts/music/met-opera-cyberattack-tickets.html
