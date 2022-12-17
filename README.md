@@ -37,6 +37,9 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+
+https://therecord.media/fubotv-outage-during-world-cup-semifinal-was-caused-by-cyberattack/
+
 https://www.ic3.gov/Media/News/2022/221216.pdf
 
 https://www.securityweek.com/social-blade-confirms-breach-after-hacker-offers-sell-user-data
