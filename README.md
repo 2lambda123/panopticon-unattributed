@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/social-blade-confirms-breach-after-hacker-offers-sell-user-data
+
 https://www.sentinelone.com/labs/driving-through-defenses-targeted-attacks-leverage-signed-malicious-microsoft-drivers/
 
 https://therecord.media/australian-fire-service-operating-85-stations-shuts-down-network-after-cyberattack/
