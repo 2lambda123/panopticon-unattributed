@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.bitdefender.com/blog/labs/ongoing-worldwide-sms-scams/
+
 https://checkmarx.com/blog/how-140k-nuget-npm-and-pypi-packages-were-used-to-spread-phishing-links/
 
 https://www.sipri.org/publications/2022/other-publications/cyber-posture-trends-china-russia-united-states-and-european-union
