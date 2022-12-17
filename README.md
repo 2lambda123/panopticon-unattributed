@@ -37,6 +37,9 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.gemini.com/blog/protecting-our-customers-from-phishing-campaigns
+
+https://www.bleepingcomputer.com/news/security/hackers-leak-personal-info-allegedly-stolen-from-57m-gemini-users/
 
 https://therecord.media/fubotv-outage-during-world-cup-semifinal-was-caused-by-cyberattack/
 
