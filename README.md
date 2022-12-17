@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/australian-fire-service-operating-85-stations-shuts-down-network-after-cyberattack/
+
 https://www.securityweek.com/python-javascript-developers-targeted-fake-packages-delivering-ransomware
 
 https://www.securityweek.com/us-charges-six-operation-targeting-48-ddos-hire-websites
