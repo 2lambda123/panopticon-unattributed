@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.sipri.org/publications/2022/other-publications/cyber-posture-trends-china-russia-united-states-and-european-union
+
 https://www.gemini.com/blog/protecting-our-customers-from-phishing-campaigns
 
 https://www.bleepingcomputer.com/news/security/hackers-leak-personal-info-allegedly-stolen-from-57m-gemini-users/
