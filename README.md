@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://jfrog.com/blog/pypi-malware-creators-are-starting-to-employ-anti-debug-techniques/?utm_source=substack&utm_medium=email
+
 https://blog.sucuri.net/2022/12/backdoor-targets-freepbx-asterisk-management-portal.html
 
 https://www.bitdefender.com/blog/labs/ongoing-worldwide-sms-scams/
