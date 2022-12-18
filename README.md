@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://blog.phylum.io/phylum-detects-active-typosquatting-campaign-in-pypi
+
 https://blog.lodestarfinance.io/post-mortem-summary-13f5fe0bb336
 
 https://twitter.com/CertiKAlert/status/1601855745905115136?utm_source=substack&utm_medium=email
