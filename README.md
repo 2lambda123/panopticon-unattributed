@@ -37,7 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://blogs.juniper.net/en-us/threat-research/a-custom-python-backdoor-for-vmware-esxi-servers
+
 https://www.cyfirma.com/outofband/inside-the-world-of-initial-access-broker-iab-insights-and-trends/
+
 https://blog.phylum.io/phylum-detects-active-typosquatting-campaign-in-pypi
 
 https://blog.lodestarfinance.io/post-mortem-summary-13f5fe0bb336
