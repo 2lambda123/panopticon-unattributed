@@ -37,15 +37,16 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.cyfirma.com/outofband/inside-the-world-of-initial-access-broker-iab-insights-and-trends/
 https://blog.phylum.io/phylum-detects-active-typosquatting-campaign-in-pypi
 
 https://blog.lodestarfinance.io/post-mortem-summary-13f5fe0bb336
 
-https://twitter.com/CertiKAlert/status/1601855745905115136?utm_source=substack&utm_medium=email
+https://twitter.com/CertiKAlert/status/1601855745905115136
 
 https://archive.ph/KyjJk
 
-https://jfrog.com/blog/pypi-malware-creators-are-starting-to-employ-anti-debug-techniques/?utm_source=substack&utm_medium=email
+https://jfrog.com/blog/pypi-malware-creators-are-starting-to-employ-anti-debug-techniques/
 
 https://blog.sucuri.net/2022/12/backdoor-targets-freepbx-asterisk-management-portal.html
 
