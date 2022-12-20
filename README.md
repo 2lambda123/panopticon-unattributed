@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://blog.reversinglabs.com/blog/sentinelsneak-malicious-pypi-module-poses-as-security-sdk
+
 https://www.wired.com/story/attacks-us-electrical-grid-security-roundup/
 
 https://blogs.juniper.net/en-us/threat-research/a-custom-python-backdoor-for-vmware-esxi-servers
