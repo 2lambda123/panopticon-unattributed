@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://mp.weixin.qq.com/s/fGaDBlcBJX_b0KnA4_3jXA
+
 https://www.malwarebytes.com/blog/threat-intelligence/2022/12/adult-popunder-campaign-used-in-mainstream-ad-fraud-scheme
 
 https://blog.talosintelligence.com/xlling-in-excel-malicious-add-ins/
