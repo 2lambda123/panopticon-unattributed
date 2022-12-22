@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/github-incident-allowed-attacker-to-copy-oktas-source-code/
+
 https://blog.reversinglabs.com/blog/sentinelsneak-malicious-pypi-module-poses-as-security-sdk
 
 https://www.wired.com/story/attacks-us-electrical-grid-security-roundup/
