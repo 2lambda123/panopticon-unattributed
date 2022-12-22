@@ -37,6 +37,11 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.privacy.org.nz/publications/statements-media-releases/new-news-page-5/
+https://www.infosecurity-magazine.com/news/nz-privacy-commissioner/
+https://www.theregister.com/2022/12/07/nz_vanuatu_cyberattacks/
+
+
 https://mp.weixin.qq.com/s/fGaDBlcBJX_b0KnA4_3jXA
 
 https://www.malwarebytes.com/blog/threat-intelligence/2022/12/adult-popunder-campaign-used-in-mainstream-ad-fraud-scheme
