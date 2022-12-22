@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.malwarebytes.com/blog/threat-intelligence/2022/12/adult-popunder-campaign-used-in-mainstream-ad-fraud-scheme
+
+https://blog.talosintelligence.com/xlling-in-excel-malicious-add-ins/
+
 https://www.securityweek.com/industrial-giant-thyssenkrupp-again-targeted-cybercriminals
 
 https://ir.nio.com/news-events/news-releases/news-release-details/nio-inc-promptly-responds-data-leakage/
