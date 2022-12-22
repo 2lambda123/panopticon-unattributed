@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://twitter.com/CertiKAlert/status/1603877927078313984
+
 https://therecord.media/guardian-newspaper-hit-by-suspected-ransomware-attack-staff-told-not-to-come-to-office/
 
 https://therecord.media/github-incident-allowed-attacker-to-copy-oktas-source-code/
