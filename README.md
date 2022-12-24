@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.wired.com/story/sequoia-hr-data-breach/
+
 https://www.privacy.org.nz/publications/statements-media-releases/new-news-page-5/
 https://www.infosecurity-magazine.com/news/nz-privacy-commissioner/
 https://www.theregister.com/2022/12/07/nz_vanuatu_cyberattacks/
