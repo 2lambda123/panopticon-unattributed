@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://cloudsek.com/cyber-security-incident-at-cloudsek/
+
 https://www.securityweek.com/betmgm-confirms-breach-hackers-offer-sell-data-15-million-customers
 
 https://www.securityweek.com/lastpass-says-password-vault-data-stolen-data-breach
