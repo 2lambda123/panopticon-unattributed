@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/lastpass-says-password-vault-data-stolen-data-breach
+
 https://www.securityweek.com/data-400-million-twitter-users-sale-irish-privacy-watchdog-announces-probe
 
 https://www.wired.com/story/sequoia-hr-data-breach/
