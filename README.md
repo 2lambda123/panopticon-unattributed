@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/canadas-largest-childrens-hospital-struggles-to-recover-from-pre-christmas-ransomware-attack/
+
 https://blog.sucuri.net/2022/12/infected-wordpress-plugins-redirect-to-push-notification-scam.html
 
 https://www.zscaler.com/blogs/security-research/sms-scams-trick-indian-banking-customers-installing-malicious-apps
