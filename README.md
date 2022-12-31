@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.wordfence.com/blog/2022/12/psa-yith-woocommerce-gift-cards-premium-plugin-exploited-in-the-wild/
+
 https://t.me/bitkeep/780791
 
 https://btcm.group/news-detail?id=52667
