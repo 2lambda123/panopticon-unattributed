@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/rackspace-says-ransomware-attack-caused-outage/
+
+https://therecord.media/multiple-government-departments-in-new-zealand-affected-by-ransomware-attack-on-it-provider/
+
 https://www.wordfence.com/blog/2022/12/psa-yith-woocommerce-gift-cards-premium-plugin-exploited-in-the-wild/
 
 https://t.me/bitkeep/780791
