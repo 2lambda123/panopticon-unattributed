@@ -37,6 +37,16 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://t.me/bitkeep/780791
+
+https://btcm.group/news-detail?id=52667
+
+https://medium.com/@Defrost_Finance/details-concerning-the-refunding-process-78d48e18031b
+
+https://archive.ph/0Xdhe
+
+https://archive.ph/2zGYF
+
 https://therecord.media/canadas-largest-childrens-hospital-struggles-to-recover-from-pre-christmas-ransomware-attack/
 
 https://blog.sucuri.net/2022/12/infected-wordpress-plugins-redirect-to-push-notification-scam.html
