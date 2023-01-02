@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/french-hospital-cancels-operations-after-cyberattack
+
 https://therecord.media/canadian-copper-mine-suffers-ransomware-attack-shuts-down-mills/
 
 https://www.coindesk.com/tech/2022/12/02/how-attackers-made-15m-from-staking-platform-helio-after-ankr-exploit/
