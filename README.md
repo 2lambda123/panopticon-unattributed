@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/malware-delivered-pytorch-users-supply-chain-attack
+
 https://www.nctv.nl/documenten/publicaties/2022/11/28/dreigingsbeeld-statelijke-actoren-2
 
 https://www.securityweek.com/french-hospital-cancels-operations-after-cyberattack
