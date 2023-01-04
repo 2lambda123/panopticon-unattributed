@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-11-23/attaque-au-rancongiciel-a-westmount/les-pirates-affichent-des-dossiers-sensibles-qu-ils-auraient-voles.php
+
 https://www.bleepingcomputer.com/news/security/canadian-mining-firm-shuts-down-mill-after-ransomware-attack/
 
 https://www.securityweek.com/malware-delivered-pytorch-users-supply-chain-attack
