@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.recordedfuture.com/fielding-cyber-influence-and-physical-threats-to-2022-fifa-world-cup-in-qatar
+
+https://therecord.media/phishing-attacks-targeting-middle-east-countries-double-ahead-of-world-cup-report
+
 https://securitylabs.datadoghq.com/articles/malicious-pypi-package-fastapi-toolkit/
 
 https://www.bleepingcomputer.com/news/security/backdoored-chrome-extension-installed-by-200-000-roblox-players/
