@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/database-containing-235-million-twitter-user-records-available-free
+
 https://www.securityweek.com/burger-chain-five-guys-discloses-data-breach-impacting-job-applicants
 
 https://www.securityweek.com/slack-says-hackers-stole-private-source-code-repositories
