@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.potsdam.de/2-umfangreiche-sicherheits-tests-nach-praeventiver-abschaltung-der-internetverbindungen?utm_source=substack&utm_medium=email
+
 https://therecord.media/massachusetts-school-district-community-college-dealing-with-fallout-from-ransomware-attacks/
 
 https://isc.sans.edu/diary/Google+ad+traffic+leads+to+stealer+packages+based+on+free+software/29376/?is=b97987ef4a59a08cc45f76e119cb3e17f2d2142422a6c9fa05f9421787e15e45
