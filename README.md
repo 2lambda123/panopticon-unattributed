@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://3commas.io/blog/notice-on-api-data-disclosure-incident
+
 https://www.potsdam.de/2-umfangreiche-sicherheits-tests-nach-praeventiver-abschaltung-der-internetverbindungen?utm_source=substack&utm_medium=email
 
 https://therecord.media/massachusetts-school-district-community-college-dealing-with-fallout-from-ransomware-attacks/
