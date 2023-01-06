@@ -37,6 +37,11 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+
+https://support.deezer.com/hc/en-gb/articles/7726141292317-Third-Party-Data-Breach
+
+https://restoreprivacy.com/music-service-deezer-data-breach/
+
 https://3commas.io/blog/notice-on-api-data-disclosure-incident
 
 https://www.potsdam.de/2-umfangreiche-sicherheits-tests-nach-praeventiver-abschaltung-der-internetverbindungen?utm_source=substack&utm_medium=email
