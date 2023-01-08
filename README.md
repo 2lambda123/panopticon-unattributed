@@ -37,7 +37,7 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
-https://mp-weixin-qq-com.translate.goog/s/uEjNpw-rtpjGGPacJS19WQ?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&utm_source=substack&utm_medium=email - no name so can't track
+https://therecord.media/moldova%ca%bcs-government-hit-by-flood-of-phishing-attacks/
 
 https://rocklandgov.com/departments/clerks-office/
 https://www.govinfosecurity.com/cyberattack-on-records-vendor-affects-scores-us-counties-a-20856
