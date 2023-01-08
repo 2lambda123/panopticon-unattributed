@@ -37,6 +37,9 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://rocklandgov.com/departments/clerks-office/
+https://www.govinfosecurity.com/cyberattack-on-records-vendor-affects-scores-us-counties-a-20856
+
 https://circleci.com/blog/january-4-2023-security-alert/
 
 https://thehackernews.com/2023/01/circleci-urges-customers-to-rotate.html
