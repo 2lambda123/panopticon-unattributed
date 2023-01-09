@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/air-france-klm-customers-warned-loyalty-program-account-hacking
+
 https://www.wired.com/story/slack-data-breach-security-news-roundup/
 
 https://twitter.com/DeFiAiOfficial/status/1591783217040064513
