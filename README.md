@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://paperpaper.ru/papernews/2022/11/16/v-otkrytyj-dostup-vylozhili-lichnye-dan/
+
 https://therecord.media/moldova%ca%bcs-government-hit-by-flood-of-phishing-attacks/
 
 https://rocklandgov.com/departments/clerks-office/
