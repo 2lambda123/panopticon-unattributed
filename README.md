@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.srbija.gov.rs/vest/676312/masovni-sajber-napadi-na-sajt-i-it-infrastrukturu-mup-a.php
+
 https://www.dnv.com/news/cyber-attack-on-shipmanager-a-dnv-software-237552
 
 https://therecord.media/iowa-school-district-cancels-classes-another-day-due-to-cyberattack/
