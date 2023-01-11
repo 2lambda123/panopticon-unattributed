@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.dnv.com/news/cyber-attack-on-shipmanager-a-dnv-software-237552
+
 https://therecord.media/iowa-school-district-cancels-classes-another-day-due-to-cyberattack/
 
 https://www.securityweek.com/slack-says-hackers-stole-private-source-code-repositories
