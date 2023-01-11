@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/cyber-incident-hits-uk-postal-service-halts-overseas-mail
+
 https://www.srbija.gov.rs/vest/676312/masovni-sajber-napadi-na-sajt-i-it-infrastrukturu-mup-a.php
 
 https://www.dnv.com/news/cyber-attack-on-shipmanager-a-dnv-software-237552
