@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://ago.vermont.gov/blog/2023/01/09/nortonlifelock-gen-digital-data-breach-notice-to-consumers/
+
+https://www.bleepingcomputer.com/news/security/nortonlifelock-warns-that-hackers-breached-password-manager-accounts/
+
 https://docs.datadoghq.com/agent/faq/circleci-incident-impact-on-datadog-agent/
 
 https://circleci.com/blog/jan-4-2023-incident-report/
