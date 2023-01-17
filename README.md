@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/hackers-use-fear-of-mobilization-to-target-russians-with-phishing-attacks/
+
 https://archive.md/MkuhW
 
 https://steamcommunity.com/app/1568590/discussions/0/3758849893346018743/
