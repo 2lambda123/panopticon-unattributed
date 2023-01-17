@@ -37,6 +37,12 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.dnv.com/news/cyber-attack-on-shipmanager-a-dnv-software-237552#
+
+https://www.govinfosecurity.com/ransomware-attack-affects-1000-vessels-worldwide-a-20939
+
+https://theloadstar.com/dnv-admits-up-to-1000-vessels-affected-by-ransomware-attack/
+
 https://therecord.media/hackers-use-fear-of-mobilization-to-target-russians-with-phishing-attacks/
 
 https://archive.md/MkuhW
