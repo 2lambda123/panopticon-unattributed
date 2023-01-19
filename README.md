@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.securityweek.com/ransomware-attack-dnv-ship-management-software-impacts-1000-vessels
+
 https://therecord.media/millions-of-aflac-zurich-insurance-customers-in-japan-have-data-leaked-after-breach/
 
 https://www.dnv.com/news/cyber-attack-on-shipmanager-a-dnv-software-237552#
