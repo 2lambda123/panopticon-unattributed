@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/thousands-of-nissan-customers-affected-by-data-breach-through-third-party-vendor/
+
 https://therecord.media/more-than-100-mailchimp-accounts-accessed-via-social-engineering-cyberattack/
 
 https://www.wired.com/story/vastflux-ad-fraud/
