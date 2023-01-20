@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.wired.com/story/vastflux-ad-fraud/
+
 https://www.securityweek.com/t-mobile-says-hackers-used-api-steal-data-37-million-accounts
 
 https://www.securityweek.com/ransomware-attack-dnv-ship-management-software-impacts-1000-vessels
