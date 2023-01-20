@@ -37,6 +37,8 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/more-than-100-mailchimp-accounts-accessed-via-social-engineering-cyberattack/
+
 https://www.wired.com/story/vastflux-ad-fraud/
 
 https://www.securityweek.com/t-mobile-says-hackers-used-api-steal-data-37-million-accounts
