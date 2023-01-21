@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://twitter.com/MidasCapitalxyz/status/1615407372402585601
+
+https://mp.weixin.qq.com/s/iswp1ig_rtzld06p7nd16g
+
 https://therecord.media/nearly-35000-paypal-users-had-ssns-tax-info-leaked-during-december-cyberattack/
 
 https://therecord.media/ransomware-attack-hits-nearly-300-fast-food-restaurants-in-uk-including-kfc-and-pizza-hut/
