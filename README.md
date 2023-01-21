@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://www.malwarebytes.com/blog/threat-intelligence/2022/07/google-ads-lead-to-major-malvertising-campaign
+
+https://isc.sans.edu/diary/rss/29376
+
 https://twitter.com/MidasCapitalxyz/status/1615407372402585601
 
 https://mp.weixin.qq.com/s/iswp1ig_rtzld06p7nd16g
