@@ -37,6 +37,10 @@ A lot of attacks take time to be attributed, but we want to file information on 
 - [Misc](#misc)
 
 ### Generic unattributed actions
+https://therecord.media/nearly-35000-paypal-users-had-ssns-tax-info-leaked-during-december-cyberattack/
+
+https://therecord.media/ransomware-attack-hits-nearly-300-fast-food-restaurants-in-uk-including-kfc-and-pizza-hut/
+
 https://therecord.media/canadas-largest-alcohol-retailer-infected-with-card-skimming-malware-twice-since-december/
 
 https://therecord.media/thousands-of-nissan-customers-affected-by-data-breach-through-third-party-vendor/
